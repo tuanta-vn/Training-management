@@ -1,0 +1,824 @@
+D:\USOL_V\FinalProject\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\appsettings.Development.json
+D:\USOL_V\FinalProject\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\appsettings.json
+D:\USOL_V\FinalProject\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.exe
+D:\USOL_V\FinalProject\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.deps.json
+D:\USOL_V\FinalProject\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.runtimeconfig.json
+D:\USOL_V\FinalProject\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.dll
+D:\USOL_V\FinalProject\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.pdb
+D:\USOL_V\FinalProject\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Dapper.dll
+D:\USOL_V\FinalProject\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\USOL_V\FinalProject\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\USOL_V\FinalProject\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\USOL_V\FinalProject\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\USOL_V\FinalProject\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\USOL_V\FinalProject\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\USOL_V\FinalProject\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\USOL_V\FinalProject\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\USOL_V\FinalProject\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\USOL_V\FinalProject\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\USOL_V\FinalProject\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Core.dll
+D:\USOL_V\FinalProject\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Infrastructure.dll
+D:\USOL_V\FinalProject\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Core.pdb
+D:\USOL_V\FinalProject\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Infrastructure.pdb
+D:\USOL_V\FinalProject\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.csproj.AssemblyReference.cache
+D:\USOL_V\FinalProject\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\USOL_V\FinalProject\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.AssemblyInfoInputs.cache
+D:\USOL_V\FinalProject\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.AssemblyInfo.cs
+D:\USOL_V\FinalProject\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.csproj.CoreCompileInputs.cache
+D:\USOL_V\FinalProject\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\USOL_V\FinalProject\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\USOL_V\FinalProject\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\staticwebassets.build.json
+D:\USOL_V\FinalProject\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\staticwebassets.development.json
+D:\USOL_V\FinalProject\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\scopedcss\bundle\CourseManagement.Api.styles.css
+D:\USOL_V\FinalProject\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.csproj.CopyComplete
+D:\USOL_V\FinalProject\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.dll
+D:\USOL_V\FinalProject\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\refint\CourseManagement.Api.dll
+D:\USOL_V\FinalProject\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.pdb
+D:\USOL_V\FinalProject\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.genruntimeconfig.cache
+D:\USOL_V\FinalProject\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\ref\CourseManagement.Api.dll
+D:\USOL_V\FinalProject\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.xml
+D:\USOL_V\FinalProject\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.xml
+D:\USOL_V\FinalProject\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\USOL_V\FinalProject\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\THUONG\OneDrive\Máy tính\USOL\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\THUONG\OneDrive\Máy tính\USOL\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\THUONG\OneDrive\Máy tính\USOL\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.exe
+C:\Users\THUONG\OneDrive\Máy tính\USOL\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.deps.json
+C:\Users\THUONG\OneDrive\Máy tính\USOL\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.runtimeconfig.json
+C:\Users\THUONG\OneDrive\Máy tính\USOL\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.dll
+C:\Users\THUONG\OneDrive\Máy tính\USOL\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.pdb
+C:\Users\THUONG\OneDrive\Máy tính\USOL\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.xml
+C:\Users\THUONG\OneDrive\Máy tính\USOL\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Dapper.dll
+C:\Users\THUONG\OneDrive\Máy tính\USOL\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\THUONG\OneDrive\Máy tính\USOL\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\THUONG\OneDrive\Máy tính\USOL\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\THUONG\OneDrive\Máy tính\USOL\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\THUONG\OneDrive\Máy tính\USOL\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\THUONG\OneDrive\Máy tính\USOL\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\THUONG\OneDrive\Máy tính\USOL\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\THUONG\OneDrive\Máy tính\USOL\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\THUONG\OneDrive\Máy tính\USOL\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\THUONG\OneDrive\Máy tính\USOL\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\THUONG\OneDrive\Máy tính\USOL\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\THUONG\OneDrive\Máy tính\USOL\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\THUONG\OneDrive\Máy tính\USOL\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Core.dll
+C:\Users\THUONG\OneDrive\Máy tính\USOL\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Infrastructure.dll
+C:\Users\THUONG\OneDrive\Máy tính\USOL\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Core.pdb
+C:\Users\THUONG\OneDrive\Máy tính\USOL\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Infrastructure.pdb
+C:\Users\THUONG\OneDrive\Máy tính\USOL\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.csproj.AssemblyReference.cache
+C:\Users\THUONG\OneDrive\Máy tính\USOL\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THUONG\OneDrive\Máy tính\USOL\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.AssemblyInfoInputs.cache
+C:\Users\THUONG\OneDrive\Máy tính\USOL\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.AssemblyInfo.cs
+C:\Users\THUONG\OneDrive\Máy tính\USOL\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.csproj.CoreCompileInputs.cache
+C:\Users\THUONG\OneDrive\Máy tính\USOL\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\THUONG\OneDrive\Máy tính\USOL\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\THUONG\OneDrive\Máy tính\USOL\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\staticwebassets\msbuild.CourseManagement.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\THUONG\OneDrive\Máy tính\USOL\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.CourseManagement.Api.props
+C:\Users\THUONG\OneDrive\Máy tính\USOL\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CourseManagement.Api.props
+C:\Users\THUONG\OneDrive\Máy tính\USOL\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CourseManagement.Api.props
+C:\Users\THUONG\OneDrive\Máy tính\USOL\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\THUONG\OneDrive\Máy tính\USOL\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\THUONG\OneDrive\Máy tính\USOL\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\THUONG\OneDrive\Máy tính\USOL\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\scopedcss\bundle\CourseManagement.Api.styles.css
+C:\Users\THUONG\OneDrive\Máy tính\USOL\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.csproj.CopyComplete
+C:\Users\THUONG\OneDrive\Máy tính\USOL\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.dll
+C:\Users\THUONG\OneDrive\Máy tính\USOL\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\refint\CourseManagement.Api.dll
+C:\Users\THUONG\OneDrive\Máy tính\USOL\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.xml
+C:\Users\THUONG\OneDrive\Máy tính\USOL\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.pdb
+C:\Users\THUONG\OneDrive\Máy tính\USOL\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.genruntimeconfig.cache
+C:\Users\THUONG\OneDrive\Máy tính\USOL\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\ref\CourseManagement.Api.dll
+D:\USOL_V\FinalProject\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\appsettings.Development.json
+D:\USOL_V\FinalProject\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\appsettings.json
+D:\USOL_V\FinalProject\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.exe
+D:\USOL_V\FinalProject\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.deps.json
+D:\USOL_V\FinalProject\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.runtimeconfig.json
+D:\USOL_V\FinalProject\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.dll
+D:\USOL_V\FinalProject\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.pdb
+D:\USOL_V\FinalProject\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.xml
+D:\USOL_V\FinalProject\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Dapper.dll
+D:\USOL_V\FinalProject\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\USOL_V\FinalProject\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\USOL_V\FinalProject\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\USOL_V\FinalProject\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\USOL_V\FinalProject\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\USOL_V\FinalProject\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\USOL_V\FinalProject\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\USOL_V\FinalProject\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\USOL_V\FinalProject\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\USOL_V\FinalProject\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\USOL_V\FinalProject\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\USOL_V\FinalProject\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\USOL_V\FinalProject\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Core.dll
+D:\USOL_V\FinalProject\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Infrastructure.dll
+D:\USOL_V\FinalProject\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Core.pdb
+D:\USOL_V\FinalProject\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Infrastructure.pdb
+D:\USOL_V\FinalProject\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.csproj.AssemblyReference.cache
+D:\USOL_V\FinalProject\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\USOL_V\FinalProject\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.AssemblyInfoInputs.cache
+D:\USOL_V\FinalProject\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.AssemblyInfo.cs
+D:\USOL_V\FinalProject\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.csproj.CoreCompileInputs.cache
+D:\USOL_V\FinalProject\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\USOL_V\FinalProject\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\USOL_V\FinalProject\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\staticwebassets.build.json
+D:\USOL_V\FinalProject\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\staticwebassets.development.json
+D:\USOL_V\FinalProject\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\scopedcss\bundle\CourseManagement.Api.styles.css
+D:\USOL_V\FinalProject\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.csproj.CopyComplete
+D:\USOL_V\FinalProject\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.dll
+D:\USOL_V\FinalProject\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\refint\CourseManagement.Api.dll
+D:\USOL_V\FinalProject\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.xml
+D:\USOL_V\FinalProject\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.pdb
+D:\USOL_V\FinalProject\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.genruntimeconfig.cache
+D:\USOL_V\FinalProject\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\ref\CourseManagement.Api.dll
+C:\Users\THUONG\OneDrive\Máy tính\USOL_V\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\THUONG\OneDrive\Máy tính\USOL_V\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\THUONG\OneDrive\Máy tính\USOL_V\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.exe
+C:\Users\THUONG\OneDrive\Máy tính\USOL_V\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.deps.json
+C:\Users\THUONG\OneDrive\Máy tính\USOL_V\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.runtimeconfig.json
+C:\Users\THUONG\OneDrive\Máy tính\USOL_V\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.dll
+C:\Users\THUONG\OneDrive\Máy tính\USOL_V\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.pdb
+C:\Users\THUONG\OneDrive\Máy tính\USOL_V\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.xml
+C:\Users\THUONG\OneDrive\Máy tính\USOL_V\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Dapper.dll
+C:\Users\THUONG\OneDrive\Máy tính\USOL_V\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\THUONG\OneDrive\Máy tính\USOL_V\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\THUONG\OneDrive\Máy tính\USOL_V\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\THUONG\OneDrive\Máy tính\USOL_V\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\THUONG\OneDrive\Máy tính\USOL_V\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\THUONG\OneDrive\Máy tính\USOL_V\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\THUONG\OneDrive\Máy tính\USOL_V\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\THUONG\OneDrive\Máy tính\USOL_V\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\THUONG\OneDrive\Máy tính\USOL_V\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\THUONG\OneDrive\Máy tính\USOL_V\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\THUONG\OneDrive\Máy tính\USOL_V\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\THUONG\OneDrive\Máy tính\USOL_V\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\THUONG\OneDrive\Máy tính\USOL_V\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Core.dll
+C:\Users\THUONG\OneDrive\Máy tính\USOL_V\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Infrastructure.dll
+C:\Users\THUONG\OneDrive\Máy tính\USOL_V\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Core.pdb
+C:\Users\THUONG\OneDrive\Máy tính\USOL_V\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Infrastructure.pdb
+C:\Users\THUONG\OneDrive\Máy tính\USOL_V\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.csproj.AssemblyReference.cache
+C:\Users\THUONG\OneDrive\Máy tính\USOL_V\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THUONG\OneDrive\Máy tính\USOL_V\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.AssemblyInfoInputs.cache
+C:\Users\THUONG\OneDrive\Máy tính\USOL_V\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.AssemblyInfo.cs
+C:\Users\THUONG\OneDrive\Máy tính\USOL_V\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.csproj.CoreCompileInputs.cache
+C:\Users\THUONG\OneDrive\Máy tính\USOL_V\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\THUONG\OneDrive\Máy tính\USOL_V\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\THUONG\OneDrive\Máy tính\USOL_V\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\staticwebassets\msbuild.CourseManagement.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\THUONG\OneDrive\Máy tính\USOL_V\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.CourseManagement.Api.props
+C:\Users\THUONG\OneDrive\Máy tính\USOL_V\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CourseManagement.Api.props
+C:\Users\THUONG\OneDrive\Máy tính\USOL_V\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CourseManagement.Api.props
+C:\Users\THUONG\OneDrive\Máy tính\USOL_V\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\THUONG\OneDrive\Máy tính\USOL_V\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\THUONG\OneDrive\Máy tính\USOL_V\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\THUONG\OneDrive\Máy tính\USOL_V\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\scopedcss\bundle\CourseManagement.Api.styles.css
+C:\Users\THUONG\OneDrive\Máy tính\USOL_V\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.csproj.CopyComplete
+C:\Users\THUONG\OneDrive\Máy tính\USOL_V\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.dll
+C:\Users\THUONG\OneDrive\Máy tính\USOL_V\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\refint\CourseManagement.Api.dll
+C:\Users\THUONG\OneDrive\Máy tính\USOL_V\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.xml
+C:\Users\THUONG\OneDrive\Máy tính\USOL_V\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.pdb
+C:\Users\THUONG\OneDrive\Máy tính\USOL_V\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.genruntimeconfig.cache
+C:\Users\THUONG\OneDrive\Máy tính\USOL_V\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\ref\CourseManagement.Api.dll
+D:\USOL_V\TOM\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\appsettings.Development.json
+D:\USOL_V\TOM\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\appsettings.json
+D:\USOL_V\TOM\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.exe
+D:\USOL_V\TOM\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.deps.json
+D:\USOL_V\TOM\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.runtimeconfig.json
+D:\USOL_V\TOM\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.dll
+D:\USOL_V\TOM\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.pdb
+D:\USOL_V\TOM\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.xml
+D:\USOL_V\TOM\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Dapper.dll
+D:\USOL_V\TOM\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\USOL_V\TOM\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\USOL_V\TOM\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\USOL_V\TOM\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\USOL_V\TOM\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\USOL_V\TOM\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\USOL_V\TOM\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\USOL_V\TOM\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\USOL_V\TOM\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\USOL_V\TOM\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\USOL_V\TOM\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\USOL_V\TOM\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Scrutor.dll
+D:\USOL_V\TOM\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+D:\USOL_V\TOM\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+D:\USOL_V\TOM\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\USOL_V\TOM\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\USOL_V\TOM\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\USOL_V\TOM\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\USOL_V\TOM\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\USOL_V\TOM\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\USOL_V\TOM\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\USOL_V\TOM\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\USOL_V\TOM\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\USOL_V\TOM\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\USOL_V\TOM\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Core.dll
+D:\USOL_V\TOM\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Infrastructure.dll
+D:\USOL_V\TOM\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Core.pdb
+D:\USOL_V\TOM\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Infrastructure.pdb
+D:\USOL_V\TOM\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.csproj.AssemblyReference.cache
+D:\USOL_V\TOM\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\USOL_V\TOM\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.AssemblyInfoInputs.cache
+D:\USOL_V\TOM\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.AssemblyInfo.cs
+D:\USOL_V\TOM\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.csproj.CoreCompileInputs.cache
+D:\USOL_V\TOM\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\USOL_V\TOM\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\USOL_V\TOM\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\staticwebassets.build.json
+D:\USOL_V\TOM\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\staticwebassets.development.json
+D:\USOL_V\TOM\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\scopedcss\bundle\CourseManagement.Api.styles.css
+D:\USOL_V\TOM\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.csproj.CopyComplete
+D:\USOL_V\TOM\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.dll
+D:\USOL_V\TOM\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\refint\CourseManagement.Api.dll
+D:\USOL_V\TOM\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.xml
+D:\USOL_V\TOM\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.pdb
+D:\USOL_V\TOM\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.genruntimeconfig.cache
+D:\USOL_V\TOM\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\ref\CourseManagement.Api.dll
+D:\USOL_V\FinalProject\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\USOL_V\FinalProject\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\USOL_V\FinalProject\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\USOL_V\FinalProject\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\USOL_V\FinalProject\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\USOL_V\FinalProject\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\USOL_V\FinalProject\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\USOL_V\FinalProject\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\USOL_V\FinalProject\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Scrutor.dll
+D:\USOL_V\FinalProject\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+D:\USOL_V\FinalProject\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+D:\USOL_V\FinalProject\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\USOL_V\GROUP3\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\appsettings.Development.json
+D:\USOL_V\GROUP3\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\appsettings.json
+D:\USOL_V\GROUP3\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.exe
+D:\USOL_V\GROUP3\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.deps.json
+D:\USOL_V\GROUP3\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.runtimeconfig.json
+D:\USOL_V\GROUP3\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.dll
+D:\USOL_V\GROUP3\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.pdb
+D:\USOL_V\GROUP3\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.xml
+D:\USOL_V\GROUP3\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Dapper.dll
+D:\USOL_V\GROUP3\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\USOL_V\GROUP3\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\USOL_V\GROUP3\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\USOL_V\GROUP3\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\USOL_V\GROUP3\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\USOL_V\GROUP3\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\USOL_V\GROUP3\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\USOL_V\GROUP3\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\USOL_V\GROUP3\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\USOL_V\GROUP3\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\USOL_V\GROUP3\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\USOL_V\GROUP3\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Scrutor.dll
+D:\USOL_V\GROUP3\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+D:\USOL_V\GROUP3\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+D:\USOL_V\GROUP3\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\USOL_V\GROUP3\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\USOL_V\GROUP3\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\USOL_V\GROUP3\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\USOL_V\GROUP3\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\USOL_V\GROUP3\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\USOL_V\GROUP3\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\USOL_V\GROUP3\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\USOL_V\GROUP3\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\USOL_V\GROUP3\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\USOL_V\GROUP3\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Core.dll
+D:\USOL_V\GROUP3\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Infrastructure.dll
+D:\USOL_V\GROUP3\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Core.pdb
+D:\USOL_V\GROUP3\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Infrastructure.pdb
+D:\USOL_V\GROUP3\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.csproj.AssemblyReference.cache
+D:\USOL_V\GROUP3\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\USOL_V\GROUP3\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.AssemblyInfoInputs.cache
+D:\USOL_V\GROUP3\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.AssemblyInfo.cs
+D:\USOL_V\GROUP3\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.csproj.CoreCompileInputs.cache
+D:\USOL_V\GROUP3\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\USOL_V\GROUP3\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\USOL_V\GROUP3\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\staticwebassets.build.json
+D:\USOL_V\GROUP3\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\staticwebassets.development.json
+D:\USOL_V\GROUP3\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\scopedcss\bundle\CourseManagement.Api.styles.css
+D:\USOL_V\GROUP3\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.csproj.CopyComplete
+D:\USOL_V\GROUP3\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.dll
+D:\USOL_V\GROUP3\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\refint\CourseManagement.Api.dll
+D:\USOL_V\GROUP3\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.xml
+D:\USOL_V\GROUP3\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.pdb
+D:\USOL_V\GROUP3\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.genruntimeconfig.cache
+D:\USOL_V\GROUP3\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\ref\CourseManagement.Api.dll
+D:\USOL_V\GROUP3\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\USOL_V\GROUP3\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\THUONG\OneDrive\Máy tính\Final\FINALPROJECT_USOLV\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\THUONG\OneDrive\Máy tính\Final\FINALPROJECT_USOLV\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\THUONG\OneDrive\Máy tính\Final\FINALPROJECT_USOLV\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.exe
+C:\Users\THUONG\OneDrive\Máy tính\Final\FINALPROJECT_USOLV\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.deps.json
+C:\Users\THUONG\OneDrive\Máy tính\Final\FINALPROJECT_USOLV\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.runtimeconfig.json
+C:\Users\THUONG\OneDrive\Máy tính\Final\FINALPROJECT_USOLV\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.dll
+C:\Users\THUONG\OneDrive\Máy tính\Final\FINALPROJECT_USOLV\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.pdb
+C:\Users\THUONG\OneDrive\Máy tính\Final\FINALPROJECT_USOLV\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.xml
+C:\Users\THUONG\OneDrive\Máy tính\Final\FINALPROJECT_USOLV\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Dapper.dll
+C:\Users\THUONG\OneDrive\Máy tính\Final\FINALPROJECT_USOLV\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\THUONG\OneDrive\Máy tính\Final\FINALPROJECT_USOLV\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\THUONG\OneDrive\Máy tính\Final\FINALPROJECT_USOLV\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\THUONG\OneDrive\Máy tính\Final\FINALPROJECT_USOLV\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\THUONG\OneDrive\Máy tính\Final\FINALPROJECT_USOLV\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\THUONG\OneDrive\Máy tính\Final\FINALPROJECT_USOLV\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\THUONG\OneDrive\Máy tính\Final\FINALPROJECT_USOLV\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\THUONG\OneDrive\Máy tính\Final\FINALPROJECT_USOLV\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\THUONG\OneDrive\Máy tính\Final\FINALPROJECT_USOLV\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\THUONG\OneDrive\Máy tính\Final\FINALPROJECT_USOLV\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\THUONG\OneDrive\Máy tính\Final\FINALPROJECT_USOLV\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\THUONG\OneDrive\Máy tính\Final\FINALPROJECT_USOLV\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\THUONG\OneDrive\Máy tính\Final\FINALPROJECT_USOLV\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\THUONG\OneDrive\Máy tính\Final\FINALPROJECT_USOLV\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Scrutor.dll
+C:\Users\THUONG\OneDrive\Máy tính\Final\FINALPROJECT_USOLV\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\THUONG\OneDrive\Máy tính\Final\FINALPROJECT_USOLV\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Users\THUONG\OneDrive\Máy tính\Final\FINALPROJECT_USOLV\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\THUONG\OneDrive\Máy tính\Final\FINALPROJECT_USOLV\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\THUONG\OneDrive\Máy tính\Final\FINALPROJECT_USOLV\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\THUONG\OneDrive\Máy tính\Final\FINALPROJECT_USOLV\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\THUONG\OneDrive\Máy tính\Final\FINALPROJECT_USOLV\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\THUONG\OneDrive\Máy tính\Final\FINALPROJECT_USOLV\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\THUONG\OneDrive\Máy tính\Final\FINALPROJECT_USOLV\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\THUONG\OneDrive\Máy tính\Final\FINALPROJECT_USOLV\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\THUONG\OneDrive\Máy tính\Final\FINALPROJECT_USOLV\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\THUONG\OneDrive\Máy tính\Final\FINALPROJECT_USOLV\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\THUONG\OneDrive\Máy tính\Final\FINALPROJECT_USOLV\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Core.dll
+C:\Users\THUONG\OneDrive\Máy tính\Final\FINALPROJECT_USOLV\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Infrastructure.dll
+C:\Users\THUONG\OneDrive\Máy tính\Final\FINALPROJECT_USOLV\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Core.pdb
+C:\Users\THUONG\OneDrive\Máy tính\Final\FINALPROJECT_USOLV\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Infrastructure.pdb
+C:\Users\THUONG\OneDrive\Máy tính\Final\FINALPROJECT_USOLV\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.csproj.AssemblyReference.cache
+C:\Users\THUONG\OneDrive\Máy tính\Final\FINALPROJECT_USOLV\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THUONG\OneDrive\Máy tính\Final\FINALPROJECT_USOLV\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.AssemblyInfoInputs.cache
+C:\Users\THUONG\OneDrive\Máy tính\Final\FINALPROJECT_USOLV\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.AssemblyInfo.cs
+C:\Users\THUONG\OneDrive\Máy tính\Final\FINALPROJECT_USOLV\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.csproj.CoreCompileInputs.cache
+C:\Users\THUONG\OneDrive\Máy tính\Final\FINALPROJECT_USOLV\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\THUONG\OneDrive\Máy tính\Final\FINALPROJECT_USOLV\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\THUONG\OneDrive\Máy tính\Final\FINALPROJECT_USOLV\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\staticwebassets\msbuild.CourseManagement.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\THUONG\OneDrive\Máy tính\Final\FINALPROJECT_USOLV\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.CourseManagement.Api.props
+C:\Users\THUONG\OneDrive\Máy tính\Final\FINALPROJECT_USOLV\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CourseManagement.Api.props
+C:\Users\THUONG\OneDrive\Máy tính\Final\FINALPROJECT_USOLV\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CourseManagement.Api.props
+C:\Users\THUONG\OneDrive\Máy tính\Final\FINALPROJECT_USOLV\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\THUONG\OneDrive\Máy tính\Final\FINALPROJECT_USOLV\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\THUONG\OneDrive\Máy tính\Final\FINALPROJECT_USOLV\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\THUONG\OneDrive\Máy tính\Final\FINALPROJECT_USOLV\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\scopedcss\bundle\CourseManagement.Api.styles.css
+C:\Users\THUONG\OneDrive\Máy tính\Final\FINALPROJECT_USOLV\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.csproj.CopyComplete
+C:\Users\THUONG\OneDrive\Máy tính\Final\FINALPROJECT_USOLV\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.dll
+C:\Users\THUONG\OneDrive\Máy tính\Final\FINALPROJECT_USOLV\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\refint\CourseManagement.Api.dll
+C:\Users\THUONG\OneDrive\Máy tính\Final\FINALPROJECT_USOLV\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.xml
+C:\Users\THUONG\OneDrive\Máy tính\Final\FINALPROJECT_USOLV\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.pdb
+C:\Users\THUONG\OneDrive\Máy tính\Final\FINALPROJECT_USOLV\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.genruntimeconfig.cache
+C:\Users\THUONG\OneDrive\Máy tính\Final\FINALPROJECT_USOLV\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\ref\CourseManagement.Api.dll
+D:\TranTuan\FINALPROJECT_USOLV-tuanta\FINALPROJECT_USOLV-tuanta\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\appsettings.Development.json
+D:\TranTuan\FINALPROJECT_USOLV-tuanta\FINALPROJECT_USOLV-tuanta\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\appsettings.json
+D:\TranTuan\FINALPROJECT_USOLV-tuanta\FINALPROJECT_USOLV-tuanta\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.exe
+D:\TranTuan\FINALPROJECT_USOLV-tuanta\FINALPROJECT_USOLV-tuanta\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.deps.json
+D:\TranTuan\FINALPROJECT_USOLV-tuanta\FINALPROJECT_USOLV-tuanta\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.runtimeconfig.json
+D:\TranTuan\FINALPROJECT_USOLV-tuanta\FINALPROJECT_USOLV-tuanta\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.dll
+D:\TranTuan\FINALPROJECT_USOLV-tuanta\FINALPROJECT_USOLV-tuanta\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.pdb
+D:\TranTuan\FINALPROJECT_USOLV-tuanta\FINALPROJECT_USOLV-tuanta\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.xml
+D:\TranTuan\FINALPROJECT_USOLV-tuanta\FINALPROJECT_USOLV-tuanta\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Dapper.dll
+D:\TranTuan\FINALPROJECT_USOLV-tuanta\FINALPROJECT_USOLV-tuanta\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\TranTuan\FINALPROJECT_USOLV-tuanta\FINALPROJECT_USOLV-tuanta\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\TranTuan\FINALPROJECT_USOLV-tuanta\FINALPROJECT_USOLV-tuanta\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\TranTuan\FINALPROJECT_USOLV-tuanta\FINALPROJECT_USOLV-tuanta\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\TranTuan\FINALPROJECT_USOLV-tuanta\FINALPROJECT_USOLV-tuanta\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\TranTuan\FINALPROJECT_USOLV-tuanta\FINALPROJECT_USOLV-tuanta\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\TranTuan\FINALPROJECT_USOLV-tuanta\FINALPROJECT_USOLV-tuanta\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\TranTuan\FINALPROJECT_USOLV-tuanta\FINALPROJECT_USOLV-tuanta\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\TranTuan\FINALPROJECT_USOLV-tuanta\FINALPROJECT_USOLV-tuanta\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\TranTuan\FINALPROJECT_USOLV-tuanta\FINALPROJECT_USOLV-tuanta\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\TranTuan\FINALPROJECT_USOLV-tuanta\FINALPROJECT_USOLV-tuanta\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\TranTuan\FINALPROJECT_USOLV-tuanta\FINALPROJECT_USOLV-tuanta\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\TranTuan\FINALPROJECT_USOLV-tuanta\FINALPROJECT_USOLV-tuanta\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\TranTuan\FINALPROJECT_USOLV-tuanta\FINALPROJECT_USOLV-tuanta\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Scrutor.dll
+D:\TranTuan\FINALPROJECT_USOLV-tuanta\FINALPROJECT_USOLV-tuanta\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+D:\TranTuan\FINALPROJECT_USOLV-tuanta\FINALPROJECT_USOLV-tuanta\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+D:\TranTuan\FINALPROJECT_USOLV-tuanta\FINALPROJECT_USOLV-tuanta\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\TranTuan\FINALPROJECT_USOLV-tuanta\FINALPROJECT_USOLV-tuanta\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\TranTuan\FINALPROJECT_USOLV-tuanta\FINALPROJECT_USOLV-tuanta\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\TranTuan\FINALPROJECT_USOLV-tuanta\FINALPROJECT_USOLV-tuanta\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\TranTuan\FINALPROJECT_USOLV-tuanta\FINALPROJECT_USOLV-tuanta\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\TranTuan\FINALPROJECT_USOLV-tuanta\FINALPROJECT_USOLV-tuanta\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\TranTuan\FINALPROJECT_USOLV-tuanta\FINALPROJECT_USOLV-tuanta\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\TranTuan\FINALPROJECT_USOLV-tuanta\FINALPROJECT_USOLV-tuanta\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\TranTuan\FINALPROJECT_USOLV-tuanta\FINALPROJECT_USOLV-tuanta\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\TranTuan\FINALPROJECT_USOLV-tuanta\FINALPROJECT_USOLV-tuanta\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\TranTuan\FINALPROJECT_USOLV-tuanta\FINALPROJECT_USOLV-tuanta\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Core.dll
+D:\TranTuan\FINALPROJECT_USOLV-tuanta\FINALPROJECT_USOLV-tuanta\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Infrastructure.dll
+D:\TranTuan\FINALPROJECT_USOLV-tuanta\FINALPROJECT_USOLV-tuanta\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Core.pdb
+D:\TranTuan\FINALPROJECT_USOLV-tuanta\FINALPROJECT_USOLV-tuanta\API\CourseManagement\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Infrastructure.pdb
+D:\TranTuan\FINALPROJECT_USOLV-tuanta\FINALPROJECT_USOLV-tuanta\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.csproj.AssemblyReference.cache
+D:\TranTuan\FINALPROJECT_USOLV-tuanta\FINALPROJECT_USOLV-tuanta\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\TranTuan\FINALPROJECT_USOLV-tuanta\FINALPROJECT_USOLV-tuanta\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.AssemblyInfoInputs.cache
+D:\TranTuan\FINALPROJECT_USOLV-tuanta\FINALPROJECT_USOLV-tuanta\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.AssemblyInfo.cs
+D:\TranTuan\FINALPROJECT_USOLV-tuanta\FINALPROJECT_USOLV-tuanta\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.csproj.CoreCompileInputs.cache
+D:\TranTuan\FINALPROJECT_USOLV-tuanta\FINALPROJECT_USOLV-tuanta\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\TranTuan\FINALPROJECT_USOLV-tuanta\FINALPROJECT_USOLV-tuanta\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\TranTuan\FINALPROJECT_USOLV-tuanta\FINALPROJECT_USOLV-tuanta\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\staticwebassets\msbuild.CourseManagement.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\TranTuan\FINALPROJECT_USOLV-tuanta\FINALPROJECT_USOLV-tuanta\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.CourseManagement.Api.props
+D:\TranTuan\FINALPROJECT_USOLV-tuanta\FINALPROJECT_USOLV-tuanta\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CourseManagement.Api.props
+D:\TranTuan\FINALPROJECT_USOLV-tuanta\FINALPROJECT_USOLV-tuanta\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CourseManagement.Api.props
+D:\TranTuan\FINALPROJECT_USOLV-tuanta\FINALPROJECT_USOLV-tuanta\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\staticwebassets.pack.json
+D:\TranTuan\FINALPROJECT_USOLV-tuanta\FINALPROJECT_USOLV-tuanta\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\staticwebassets.build.json
+D:\TranTuan\FINALPROJECT_USOLV-tuanta\FINALPROJECT_USOLV-tuanta\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\staticwebassets.development.json
+D:\TranTuan\FINALPROJECT_USOLV-tuanta\FINALPROJECT_USOLV-tuanta\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\scopedcss\bundle\CourseManagement.Api.styles.css
+D:\TranTuan\FINALPROJECT_USOLV-tuanta\FINALPROJECT_USOLV-tuanta\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.csproj.CopyComplete
+D:\TranTuan\FINALPROJECT_USOLV-tuanta\FINALPROJECT_USOLV-tuanta\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.dll
+D:\TranTuan\FINALPROJECT_USOLV-tuanta\FINALPROJECT_USOLV-tuanta\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\refint\CourseManagement.Api.dll
+D:\TranTuan\FINALPROJECT_USOLV-tuanta\FINALPROJECT_USOLV-tuanta\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.xml
+D:\TranTuan\FINALPROJECT_USOLV-tuanta\FINALPROJECT_USOLV-tuanta\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.pdb
+D:\TranTuan\FINALPROJECT_USOLV-tuanta\FINALPROJECT_USOLV-tuanta\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.genruntimeconfig.cache
+D:\TranTuan\FINALPROJECT_USOLV-tuanta\FINALPROJECT_USOLV-tuanta\API\CourseManagement\CourseManagement.Api\obj\Debug\net6.0\ref\CourseManagement.Api.dll
+D:\TEAM3\Programming\BE\CourseManagement.Api\bin\Debug\net6.0\appsettings.Development.json
+D:\TEAM3\Programming\BE\CourseManagement.Api\bin\Debug\net6.0\appsettings.json
+D:\TEAM3\Programming\BE\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.exe
+D:\TEAM3\Programming\BE\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.deps.json
+D:\TEAM3\Programming\BE\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.runtimeconfig.json
+D:\TEAM3\Programming\BE\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.dll
+D:\TEAM3\Programming\BE\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.pdb
+D:\TEAM3\Programming\BE\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.xml
+D:\TEAM3\Programming\BE\CourseManagement.Api\bin\Debug\net6.0\Dapper.dll
+D:\TEAM3\Programming\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\TEAM3\Programming\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\TEAM3\Programming\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\TEAM3\Programming\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\TEAM3\Programming\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\TEAM3\Programming\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\TEAM3\Programming\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\TEAM3\Programming\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\TEAM3\Programming\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\TEAM3\Programming\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\TEAM3\Programming\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\TEAM3\Programming\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\TEAM3\Programming\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\TEAM3\Programming\BE\CourseManagement.Api\bin\Debug\net6.0\Scrutor.dll
+D:\TEAM3\Programming\BE\CourseManagement.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+D:\TEAM3\Programming\BE\CourseManagement.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+D:\TEAM3\Programming\BE\CourseManagement.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\TEAM3\Programming\BE\CourseManagement.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\TEAM3\Programming\BE\CourseManagement.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\TEAM3\Programming\BE\CourseManagement.Api\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\TEAM3\Programming\BE\CourseManagement.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\TEAM3\Programming\BE\CourseManagement.Api\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\TEAM3\Programming\BE\CourseManagement.Api\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\TEAM3\Programming\BE\CourseManagement.Api\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\TEAM3\Programming\BE\CourseManagement.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\TEAM3\Programming\BE\CourseManagement.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\TEAM3\Programming\BE\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Core.dll
+D:\TEAM3\Programming\BE\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Infrastructure.dll
+D:\TEAM3\Programming\BE\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Core.pdb
+D:\TEAM3\Programming\BE\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Infrastructure.pdb
+D:\TEAM3\Programming\BE\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.csproj.AssemblyReference.cache
+D:\TEAM3\Programming\BE\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\TEAM3\Programming\BE\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.AssemblyInfoInputs.cache
+D:\TEAM3\Programming\BE\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.AssemblyInfo.cs
+D:\TEAM3\Programming\BE\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.csproj.CoreCompileInputs.cache
+D:\TEAM3\Programming\BE\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\TEAM3\Programming\BE\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\TEAM3\Programming\BE\CourseManagement.Api\obj\Debug\net6.0\staticwebassets\msbuild.CourseManagement.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\TEAM3\Programming\BE\CourseManagement.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.CourseManagement.Api.props
+D:\TEAM3\Programming\BE\CourseManagement.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CourseManagement.Api.props
+D:\TEAM3\Programming\BE\CourseManagement.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CourseManagement.Api.props
+D:\TEAM3\Programming\BE\CourseManagement.Api\obj\Debug\net6.0\staticwebassets.pack.json
+D:\TEAM3\Programming\BE\CourseManagement.Api\obj\Debug\net6.0\staticwebassets.build.json
+D:\TEAM3\Programming\BE\CourseManagement.Api\obj\Debug\net6.0\staticwebassets.development.json
+D:\TEAM3\Programming\BE\CourseManagement.Api\obj\Debug\net6.0\scopedcss\bundle\CourseManagement.Api.styles.css
+D:\TEAM3\Programming\BE\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.csproj.CopyComplete
+D:\TEAM3\Programming\BE\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.dll
+D:\TEAM3\Programming\BE\CourseManagement.Api\obj\Debug\net6.0\refint\CourseManagement.Api.dll
+D:\TEAM3\Programming\BE\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.xml
+D:\TEAM3\Programming\BE\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.pdb
+D:\TEAM3\Programming\BE\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.genruntimeconfig.cache
+D:\TEAM3\Programming\BE\CourseManagement.Api\obj\Debug\net6.0\ref\CourseManagement.Api.dll
+E:\Usol\Project_2602\Nhom3\BE\CourseManagement.Api\bin\Debug\net6.0\appsettings.Development.json
+E:\Usol\Project_2602\Nhom3\BE\CourseManagement.Api\bin\Debug\net6.0\appsettings.json
+E:\Usol\Project_2602\Nhom3\BE\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.exe
+E:\Usol\Project_2602\Nhom3\BE\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.deps.json
+E:\Usol\Project_2602\Nhom3\BE\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.runtimeconfig.json
+E:\Usol\Project_2602\Nhom3\BE\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.dll
+E:\Usol\Project_2602\Nhom3\BE\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.pdb
+E:\Usol\Project_2602\Nhom3\BE\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.xml
+E:\Usol\Project_2602\Nhom3\BE\CourseManagement.Api\bin\Debug\net6.0\Dapper.dll
+E:\Usol\Project_2602\Nhom3\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Usol\Project_2602\Nhom3\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Usol\Project_2602\Nhom3\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Usol\Project_2602\Nhom3\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\Usol\Project_2602\Nhom3\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\Usol\Project_2602\Nhom3\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\Usol\Project_2602\Nhom3\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Usol\Project_2602\Nhom3\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Usol\Project_2602\Nhom3\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Usol\Project_2602\Nhom3\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Usol\Project_2602\Nhom3\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Usol\Project_2602\Nhom3\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Usol\Project_2602\Nhom3\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Usol\Project_2602\Nhom3\BE\CourseManagement.Api\bin\Debug\net6.0\Scrutor.dll
+E:\Usol\Project_2602\Nhom3\BE\CourseManagement.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+E:\Usol\Project_2602\Nhom3\BE\CourseManagement.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+E:\Usol\Project_2602\Nhom3\BE\CourseManagement.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Usol\Project_2602\Nhom3\BE\CourseManagement.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Usol\Project_2602\Nhom3\BE\CourseManagement.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Usol\Project_2602\Nhom3\BE\CourseManagement.Api\bin\Debug\net6.0\System.Data.SqlClient.dll
+E:\Usol\Project_2602\Nhom3\BE\CourseManagement.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Usol\Project_2602\Nhom3\BE\CourseManagement.Api\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+E:\Usol\Project_2602\Nhom3\BE\CourseManagement.Api\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+E:\Usol\Project_2602\Nhom3\BE\CourseManagement.Api\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+E:\Usol\Project_2602\Nhom3\BE\CourseManagement.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Usol\Project_2602\Nhom3\BE\CourseManagement.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Usol\Project_2602\Nhom3\BE\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Core.dll
+E:\Usol\Project_2602\Nhom3\BE\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Infrastructure.dll
+E:\Usol\Project_2602\Nhom3\BE\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Core.pdb
+E:\Usol\Project_2602\Nhom3\BE\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Infrastructure.pdb
+E:\Usol\Project_2602\Nhom3\BE\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.csproj.AssemblyReference.cache
+E:\Usol\Project_2602\Nhom3\BE\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\Usol\Project_2602\Nhom3\BE\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.AssemblyInfoInputs.cache
+E:\Usol\Project_2602\Nhom3\BE\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.AssemblyInfo.cs
+E:\Usol\Project_2602\Nhom3\BE\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.csproj.CoreCompileInputs.cache
+E:\Usol\Project_2602\Nhom3\BE\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.MvcApplicationPartsAssemblyInfo.cs
+E:\Usol\Project_2602\Nhom3\BE\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.MvcApplicationPartsAssemblyInfo.cache
+E:\Usol\Project_2602\Nhom3\BE\CourseManagement.Api\obj\Debug\net6.0\staticwebassets\msbuild.CourseManagement.Api.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Usol\Project_2602\Nhom3\BE\CourseManagement.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.CourseManagement.Api.props
+E:\Usol\Project_2602\Nhom3\BE\CourseManagement.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CourseManagement.Api.props
+E:\Usol\Project_2602\Nhom3\BE\CourseManagement.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CourseManagement.Api.props
+E:\Usol\Project_2602\Nhom3\BE\CourseManagement.Api\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Usol\Project_2602\Nhom3\BE\CourseManagement.Api\obj\Debug\net6.0\staticwebassets.build.json
+E:\Usol\Project_2602\Nhom3\BE\CourseManagement.Api\obj\Debug\net6.0\staticwebassets.development.json
+E:\Usol\Project_2602\Nhom3\BE\CourseManagement.Api\obj\Debug\net6.0\scopedcss\bundle\CourseManagement.Api.styles.css
+E:\Usol\Project_2602\Nhom3\BE\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.csproj.CopyComplete
+E:\Usol\Project_2602\Nhom3\BE\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.dll
+E:\Usol\Project_2602\Nhom3\BE\CourseManagement.Api\obj\Debug\net6.0\refint\CourseManagement.Api.dll
+E:\Usol\Project_2602\Nhom3\BE\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.xml
+E:\Usol\Project_2602\Nhom3\BE\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.pdb
+E:\Usol\Project_2602\Nhom3\BE\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.genruntimeconfig.cache
+E:\Usol\Project_2602\Nhom3\BE\CourseManagement.Api\obj\Debug\net6.0\ref\CourseManagement.Api.dll
+D:\Thực tập doanh nghiệp\Newest Project\BE\BE\CourseManagement.Api\bin\Debug\net6.0\appsettings.Development.json
+D:\Thực tập doanh nghiệp\Newest Project\BE\BE\CourseManagement.Api\bin\Debug\net6.0\appsettings.json
+D:\Thực tập doanh nghiệp\Newest Project\BE\BE\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.exe
+D:\Thực tập doanh nghiệp\Newest Project\BE\BE\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.deps.json
+D:\Thực tập doanh nghiệp\Newest Project\BE\BE\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.runtimeconfig.json
+D:\Thực tập doanh nghiệp\Newest Project\BE\BE\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.dll
+D:\Thực tập doanh nghiệp\Newest Project\BE\BE\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.pdb
+D:\Thực tập doanh nghiệp\Newest Project\BE\BE\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.xml
+D:\Thực tập doanh nghiệp\Newest Project\BE\BE\CourseManagement.Api\bin\Debug\net6.0\Dapper.dll
+D:\Thực tập doanh nghiệp\Newest Project\BE\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Thực tập doanh nghiệp\Newest Project\BE\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Thực tập doanh nghiệp\Newest Project\BE\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Thực tập doanh nghiệp\Newest Project\BE\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Thực tập doanh nghiệp\Newest Project\BE\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Thực tập doanh nghiệp\Newest Project\BE\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Thực tập doanh nghiệp\Newest Project\BE\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Thực tập doanh nghiệp\Newest Project\BE\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Thực tập doanh nghiệp\Newest Project\BE\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Thực tập doanh nghiệp\Newest Project\BE\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Thực tập doanh nghiệp\Newest Project\BE\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Thực tập doanh nghiệp\Newest Project\BE\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Thực tập doanh nghiệp\Newest Project\BE\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Thực tập doanh nghiệp\Newest Project\BE\BE\CourseManagement.Api\bin\Debug\net6.0\Scrutor.dll
+D:\Thực tập doanh nghiệp\Newest Project\BE\BE\CourseManagement.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+D:\Thực tập doanh nghiệp\Newest Project\BE\BE\CourseManagement.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+D:\Thực tập doanh nghiệp\Newest Project\BE\BE\CourseManagement.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Thực tập doanh nghiệp\Newest Project\BE\BE\CourseManagement.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Thực tập doanh nghiệp\Newest Project\BE\BE\CourseManagement.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Thực tập doanh nghiệp\Newest Project\BE\BE\CourseManagement.Api\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Thực tập doanh nghiệp\Newest Project\BE\BE\CourseManagement.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Thực tập doanh nghiệp\Newest Project\BE\BE\CourseManagement.Api\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Thực tập doanh nghiệp\Newest Project\BE\BE\CourseManagement.Api\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Thực tập doanh nghiệp\Newest Project\BE\BE\CourseManagement.Api\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Thực tập doanh nghiệp\Newest Project\BE\BE\CourseManagement.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Thực tập doanh nghiệp\Newest Project\BE\BE\CourseManagement.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Thực tập doanh nghiệp\Newest Project\BE\BE\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Core.dll
+D:\Thực tập doanh nghiệp\Newest Project\BE\BE\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Infrastructure.dll
+D:\Thực tập doanh nghiệp\Newest Project\BE\BE\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Core.pdb
+D:\Thực tập doanh nghiệp\Newest Project\BE\BE\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Infrastructure.pdb
+D:\Thực tập doanh nghiệp\Newest Project\BE\BE\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.csproj.AssemblyReference.cache
+D:\Thực tập doanh nghiệp\Newest Project\BE\BE\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Thực tập doanh nghiệp\Newest Project\BE\BE\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.AssemblyInfoInputs.cache
+D:\Thực tập doanh nghiệp\Newest Project\BE\BE\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.AssemblyInfo.cs
+D:\Thực tập doanh nghiệp\Newest Project\BE\BE\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.csproj.CoreCompileInputs.cache
+D:\Thực tập doanh nghiệp\Newest Project\BE\BE\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Thực tập doanh nghiệp\Newest Project\BE\BE\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Thực tập doanh nghiệp\Newest Project\BE\BE\CourseManagement.Api\obj\Debug\net6.0\staticwebassets.build.json
+D:\Thực tập doanh nghiệp\Newest Project\BE\BE\CourseManagement.Api\obj\Debug\net6.0\staticwebassets.development.json
+D:\Thực tập doanh nghiệp\Newest Project\BE\BE\CourseManagement.Api\obj\Debug\net6.0\scopedcss\bundle\CourseManagement.Api.styles.css
+D:\Thực tập doanh nghiệp\Newest Project\BE\BE\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.csproj.CopyComplete
+D:\Thực tập doanh nghiệp\Newest Project\BE\BE\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.dll
+D:\Thực tập doanh nghiệp\Newest Project\BE\BE\CourseManagement.Api\obj\Debug\net6.0\refint\CourseManagement.Api.dll
+D:\Thực tập doanh nghiệp\Newest Project\BE\BE\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.xml
+D:\Thực tập doanh nghiệp\Newest Project\BE\BE\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.pdb
+D:\Thực tập doanh nghiệp\Newest Project\BE\BE\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.genruntimeconfig.cache
+D:\Thực tập doanh nghiệp\Newest Project\BE\BE\CourseManagement.Api\obj\Debug\net6.0\ref\CourseManagement.Api.dll
+D:\Đồ án tốt nghiệp\Newest Project\BE\BE\CourseManagement.Api\bin\Debug\net6.0\appsettings.Development.json
+D:\Đồ án tốt nghiệp\Newest Project\BE\BE\CourseManagement.Api\bin\Debug\net6.0\appsettings.json
+D:\Đồ án tốt nghiệp\Newest Project\BE\BE\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.exe
+D:\Đồ án tốt nghiệp\Newest Project\BE\BE\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.deps.json
+D:\Đồ án tốt nghiệp\Newest Project\BE\BE\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.runtimeconfig.json
+D:\Đồ án tốt nghiệp\Newest Project\BE\BE\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.dll
+D:\Đồ án tốt nghiệp\Newest Project\BE\BE\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.pdb
+D:\Đồ án tốt nghiệp\Newest Project\BE\BE\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.xml
+D:\Đồ án tốt nghiệp\Newest Project\BE\BE\CourseManagement.Api\bin\Debug\net6.0\Dapper.dll
+D:\Đồ án tốt nghiệp\Newest Project\BE\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Đồ án tốt nghiệp\Newest Project\BE\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Đồ án tốt nghiệp\Newest Project\BE\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Đồ án tốt nghiệp\Newest Project\BE\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Đồ án tốt nghiệp\Newest Project\BE\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Đồ án tốt nghiệp\Newest Project\BE\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Đồ án tốt nghiệp\Newest Project\BE\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Đồ án tốt nghiệp\Newest Project\BE\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Đồ án tốt nghiệp\Newest Project\BE\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Đồ án tốt nghiệp\Newest Project\BE\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Đồ án tốt nghiệp\Newest Project\BE\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Đồ án tốt nghiệp\Newest Project\BE\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Đồ án tốt nghiệp\Newest Project\BE\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Đồ án tốt nghiệp\Newest Project\BE\BE\CourseManagement.Api\bin\Debug\net6.0\Scrutor.dll
+D:\Đồ án tốt nghiệp\Newest Project\BE\BE\CourseManagement.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+D:\Đồ án tốt nghiệp\Newest Project\BE\BE\CourseManagement.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+D:\Đồ án tốt nghiệp\Newest Project\BE\BE\CourseManagement.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Đồ án tốt nghiệp\Newest Project\BE\BE\CourseManagement.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Đồ án tốt nghiệp\Newest Project\BE\BE\CourseManagement.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Đồ án tốt nghiệp\Newest Project\BE\BE\CourseManagement.Api\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Đồ án tốt nghiệp\Newest Project\BE\BE\CourseManagement.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Đồ án tốt nghiệp\Newest Project\BE\BE\CourseManagement.Api\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Đồ án tốt nghiệp\Newest Project\BE\BE\CourseManagement.Api\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Đồ án tốt nghiệp\Newest Project\BE\BE\CourseManagement.Api\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Đồ án tốt nghiệp\Newest Project\BE\BE\CourseManagement.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Đồ án tốt nghiệp\Newest Project\BE\BE\CourseManagement.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Đồ án tốt nghiệp\Newest Project\BE\BE\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Core.dll
+D:\Đồ án tốt nghiệp\Newest Project\BE\BE\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Infrastructure.dll
+D:\Đồ án tốt nghiệp\Newest Project\BE\BE\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Core.pdb
+D:\Đồ án tốt nghiệp\Newest Project\BE\BE\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Infrastructure.pdb
+D:\Đồ án tốt nghiệp\Newest Project\BE\BE\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.csproj.AssemblyReference.cache
+D:\Đồ án tốt nghiệp\Newest Project\BE\BE\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Đồ án tốt nghiệp\Newest Project\BE\BE\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.AssemblyInfoInputs.cache
+D:\Đồ án tốt nghiệp\Newest Project\BE\BE\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.AssemblyInfo.cs
+D:\Đồ án tốt nghiệp\Newest Project\BE\BE\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.csproj.CoreCompileInputs.cache
+D:\Đồ án tốt nghiệp\Newest Project\BE\BE\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Đồ án tốt nghiệp\Newest Project\BE\BE\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Đồ án tốt nghiệp\Newest Project\BE\BE\CourseManagement.Api\obj\Debug\net6.0\staticwebassets.build.json
+D:\Đồ án tốt nghiệp\Newest Project\BE\BE\CourseManagement.Api\obj\Debug\net6.0\staticwebassets.development.json
+D:\Đồ án tốt nghiệp\Newest Project\BE\BE\CourseManagement.Api\obj\Debug\net6.0\scopedcss\bundle\CourseManagement.Api.styles.css
+D:\Đồ án tốt nghiệp\Newest Project\BE\BE\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.csproj.CopyComplete
+D:\Đồ án tốt nghiệp\Newest Project\BE\BE\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.dll
+D:\Đồ án tốt nghiệp\Newest Project\BE\BE\CourseManagement.Api\obj\Debug\net6.0\refint\CourseManagement.Api.dll
+D:\Đồ án tốt nghiệp\Newest Project\BE\BE\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.xml
+D:\Đồ án tốt nghiệp\Newest Project\BE\BE\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.pdb
+D:\Đồ án tốt nghiệp\Newest Project\BE\BE\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.genruntimeconfig.cache
+D:\Đồ án tốt nghiệp\Newest Project\BE\BE\CourseManagement.Api\obj\Debug\net6.0\ref\CourseManagement.Api.dll
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\BE\CourseManagement.Api\bin\Debug\net6.0\appsettings.Development.json
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\BE\CourseManagement.Api\bin\Debug\net6.0\appsettings.json
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\BE\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.exe
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\BE\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.deps.json
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\BE\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.runtimeconfig.json
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\BE\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.dll
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\BE\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.pdb
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\BE\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.xml
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\BE\CourseManagement.Api\bin\Debug\net6.0\Dapper.dll
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\BE\CourseManagement.Api\bin\Debug\net6.0\Scrutor.dll
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\BE\CourseManagement.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\BE\CourseManagement.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\BE\CourseManagement.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\BE\CourseManagement.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\BE\CourseManagement.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\BE\CourseManagement.Api\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\BE\CourseManagement.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\BE\CourseManagement.Api\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\BE\CourseManagement.Api\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\BE\CourseManagement.Api\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\BE\CourseManagement.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\BE\CourseManagement.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\BE\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Core.dll
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\BE\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Infrastructure.dll
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\BE\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Core.pdb
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\BE\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Infrastructure.pdb
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\BE\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.csproj.AssemblyReference.cache
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\BE\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\BE\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.AssemblyInfoInputs.cache
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\BE\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.AssemblyInfo.cs
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\BE\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.csproj.CoreCompileInputs.cache
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\BE\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\BE\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\BE\CourseManagement.Api\obj\Debug\net6.0\staticwebassets.build.json
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\BE\CourseManagement.Api\obj\Debug\net6.0\staticwebassets.development.json
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\BE\CourseManagement.Api\obj\Debug\net6.0\scopedcss\bundle\CourseManagement.Api.styles.css
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\BE\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.csproj.CopyComplete
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\BE\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.dll
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\BE\CourseManagement.Api\obj\Debug\net6.0\refint\CourseManagement.Api.dll
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\BE\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.xml
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\BE\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.pdb
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\BE\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.genruntimeconfig.cache
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\BE\CourseManagement.Api\obj\Debug\net6.0\ref\CourseManagement.Api.dll
+C:\Users\MY PC\Desktop\DATN\COURSEMANAGEMENT\BE\CourseManagement.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\MY PC\Desktop\DATN\COURSEMANAGEMENT\BE\CourseManagement.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\MY PC\Desktop\DATN\COURSEMANAGEMENT\BE\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.exe
+C:\Users\MY PC\Desktop\DATN\COURSEMANAGEMENT\BE\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.deps.json
+C:\Users\MY PC\Desktop\DATN\COURSEMANAGEMENT\BE\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.runtimeconfig.json
+C:\Users\MY PC\Desktop\DATN\COURSEMANAGEMENT\BE\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.dll
+C:\Users\MY PC\Desktop\DATN\COURSEMANAGEMENT\BE\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.pdb
+C:\Users\MY PC\Desktop\DATN\COURSEMANAGEMENT\BE\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.xml
+C:\Users\MY PC\Desktop\DATN\COURSEMANAGEMENT\BE\CourseManagement.Api\bin\Debug\net6.0\Dapper.dll
+C:\Users\MY PC\Desktop\DATN\COURSEMANAGEMENT\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\MY PC\Desktop\DATN\COURSEMANAGEMENT\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\MY PC\Desktop\DATN\COURSEMANAGEMENT\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\MY PC\Desktop\DATN\COURSEMANAGEMENT\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\MY PC\Desktop\DATN\COURSEMANAGEMENT\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\MY PC\Desktop\DATN\COURSEMANAGEMENT\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\MY PC\Desktop\DATN\COURSEMANAGEMENT\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\MY PC\Desktop\DATN\COURSEMANAGEMENT\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\MY PC\Desktop\DATN\COURSEMANAGEMENT\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\MY PC\Desktop\DATN\COURSEMANAGEMENT\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\MY PC\Desktop\DATN\COURSEMANAGEMENT\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\MY PC\Desktop\DATN\COURSEMANAGEMENT\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\MY PC\Desktop\DATN\COURSEMANAGEMENT\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\MY PC\Desktop\DATN\COURSEMANAGEMENT\BE\CourseManagement.Api\bin\Debug\net6.0\Scrutor.dll
+C:\Users\MY PC\Desktop\DATN\COURSEMANAGEMENT\BE\CourseManagement.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\MY PC\Desktop\DATN\COURSEMANAGEMENT\BE\CourseManagement.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Users\MY PC\Desktop\DATN\COURSEMANAGEMENT\BE\CourseManagement.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\MY PC\Desktop\DATN\COURSEMANAGEMENT\BE\CourseManagement.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\MY PC\Desktop\DATN\COURSEMANAGEMENT\BE\CourseManagement.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\MY PC\Desktop\DATN\COURSEMANAGEMENT\BE\CourseManagement.Api\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\MY PC\Desktop\DATN\COURSEMANAGEMENT\BE\CourseManagement.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MY PC\Desktop\DATN\COURSEMANAGEMENT\BE\CourseManagement.Api\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\MY PC\Desktop\DATN\COURSEMANAGEMENT\BE\CourseManagement.Api\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\MY PC\Desktop\DATN\COURSEMANAGEMENT\BE\CourseManagement.Api\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\MY PC\Desktop\DATN\COURSEMANAGEMENT\BE\CourseManagement.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MY PC\Desktop\DATN\COURSEMANAGEMENT\BE\CourseManagement.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MY PC\Desktop\DATN\COURSEMANAGEMENT\BE\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Core.dll
+C:\Users\MY PC\Desktop\DATN\COURSEMANAGEMENT\BE\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Infrastructure.dll
+C:\Users\MY PC\Desktop\DATN\COURSEMANAGEMENT\BE\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Core.pdb
+C:\Users\MY PC\Desktop\DATN\COURSEMANAGEMENT\BE\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Infrastructure.pdb
+C:\Users\MY PC\Desktop\DATN\COURSEMANAGEMENT\BE\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.csproj.AssemblyReference.cache
+C:\Users\MY PC\Desktop\DATN\COURSEMANAGEMENT\BE\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MY PC\Desktop\DATN\COURSEMANAGEMENT\BE\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.AssemblyInfoInputs.cache
+C:\Users\MY PC\Desktop\DATN\COURSEMANAGEMENT\BE\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.AssemblyInfo.cs
+C:\Users\MY PC\Desktop\DATN\COURSEMANAGEMENT\BE\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.csproj.CoreCompileInputs.cache
+C:\Users\MY PC\Desktop\DATN\COURSEMANAGEMENT\BE\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\MY PC\Desktop\DATN\COURSEMANAGEMENT\BE\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MY PC\Desktop\DATN\COURSEMANAGEMENT\BE\CourseManagement.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\MY PC\Desktop\DATN\COURSEMANAGEMENT\BE\CourseManagement.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\MY PC\Desktop\DATN\COURSEMANAGEMENT\BE\CourseManagement.Api\obj\Debug\net6.0\scopedcss\bundle\CourseManagement.Api.styles.css
+C:\Users\MY PC\Desktop\DATN\COURSEMANAGEMENT\BE\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.csproj.CopyComplete
+C:\Users\MY PC\Desktop\DATN\COURSEMANAGEMENT\BE\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.dll
+C:\Users\MY PC\Desktop\DATN\COURSEMANAGEMENT\BE\CourseManagement.Api\obj\Debug\net6.0\refint\CourseManagement.Api.dll
+C:\Users\MY PC\Desktop\DATN\COURSEMANAGEMENT\BE\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.xml
+C:\Users\MY PC\Desktop\DATN\COURSEMANAGEMENT\BE\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.pdb
+C:\Users\MY PC\Desktop\DATN\COURSEMANAGEMENT\BE\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.genruntimeconfig.cache
+C:\Users\MY PC\Desktop\DATN\COURSEMANAGEMENT\BE\CourseManagement.Api\obj\Debug\net6.0\ref\CourseManagement.Api.dll
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\CourseManagement.Api\bin\Debug\net6.0\appsettings.Development.json
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\CourseManagement.Api\bin\Debug\net6.0\appsettings.json
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.exe
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.deps.json
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.runtimeconfig.json
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.dll
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.pdb
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Api.xml
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\CourseManagement.Api\bin\Debug\net6.0\Dapper.dll
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\CourseManagement.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\CourseManagement.Api\bin\Debug\net6.0\Scrutor.dll
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\CourseManagement.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\CourseManagement.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\CourseManagement.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\CourseManagement.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\CourseManagement.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\CourseManagement.Api\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\CourseManagement.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\CourseManagement.Api\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\CourseManagement.Api\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\CourseManagement.Api\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\CourseManagement.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\CourseManagement.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Core.dll
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Infrastructure.dll
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Core.pdb
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\CourseManagement.Api\bin\Debug\net6.0\CourseManagement.Infrastructure.pdb
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.csproj.AssemblyReference.cache
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.AssemblyInfoInputs.cache
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.AssemblyInfo.cs
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.csproj.CoreCompileInputs.cache
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\CourseManagement.Api\obj\Debug\net6.0\staticwebassets.build.json
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\CourseManagement.Api\obj\Debug\net6.0\staticwebassets.development.json
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\CourseManagement.Api\obj\Debug\net6.0\scopedcss\bundle\CourseManagement.Api.styles.css
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.csproj.CopyComplete
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.dll
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\CourseManagement.Api\obj\Debug\net6.0\refint\CourseManagement.Api.dll
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.xml
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.pdb
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\CourseManagement.Api\obj\Debug\net6.0\CourseManagement.Api.genruntimeconfig.cache
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\CourseManagement.Api\obj\Debug\net6.0\ref\CourseManagement.Api.dll

@@ -1,0 +1,335 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CourseManagement.Api</name>
+    </assembly>
+    <members>
+        <member name="T:CourseManagement.Api.Controllers.AccountController">
+            <summary>
+            Controller cho việc login
+            Author: TUANTA
+            CreateDate: 02/17/2023
+            </summary>
+        </member>
+        <member name="M:CourseManagement.Api.Controllers.AccountController.Login(CourseManagement.Core.Enities.Account)">
+            <summary>
+            Login
+            </summary>
+            <param name="account"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CourseManagement.Api.Controllers.AccountController.GenerateRefreshToken">
+            <summary>
+            Tạo ra RefeshToken
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:CourseManagement.Api.Controllers.AccountController.SetRefreshToken(CourseManagement.Core.Entities.RefreshToken)">
+            <summary>
+            Thiết lập refreshtoken
+            </summary>
+            <param name="newRefreshToken"></param>
+        </member>
+        <member name="T:CourseManagement.Api.Controllers.CourseController">
+            <summary>
+            Controller các thao tác với khóa học
+            Author: TUANTA 
+            CreateDate: 02/13/2023
+            </summary>
+        </member>
+        <member name="M:CourseManagement.Api.Controllers.CourseController.#ctor(CourseManagement.Core.Interfaces.Infrastracture.ICourseRepository,CourseManagement.Core.Interfaces.Services.ICourseService)">
+            <summary>
+            Hàm khởi tạo
+            </summary>
+            <param name="courseRepository"></param>
+            <param name="courseService"></param>
+        </member>
+        <member name="M:CourseManagement.Api.Controllers.CourseController.GetAll">
+            <summary>
+            Lấy thông tin toàn bộ khóa học
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:CourseManagement.Api.Controllers.CourseController.GetCourseOpen">
+            <summary>
+            Lấy danh sách khóa học đang mở
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:CourseManagement.Api.Controllers.CourseController.GetCourseOpenByTrainerID(System.Guid)">
+            <summary>
+            Lấy danh sách khóa học theo mã Trainer và đang mở
+            </summary>
+            <param name="trainerID"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CourseManagement.Api.Controllers.CourseController.GetById(System.Guid)">
+            <summary>
+            Lấy thông tin khóa học theo mã khóa học
+            </summary>
+            <param name="courseId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CourseManagement.Api.Controllers.CourseController.GetCourseByEmployeeID(System.Guid)">
+            <summary>
+            Lấy thông tin khóa học theo mã nhân viên
+            </summary>
+            <param name="employeeID"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CourseManagement.Api.Controllers.CourseController.GetCourseToRegister(System.Guid)">
+            <summary>
+            Lấy thông tin các khóa học theo mã nhân viên thực hiện đăng ký
+            </summary>
+            <param name="employeeID"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CourseManagement.Api.Controllers.CourseController.Post(CourseManagement.Core.Enities.Course)">
+            <summary>
+            Thêm khóa học
+            </summary>
+            <param name="course"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CourseManagement.Api.Controllers.CourseController.Put(CourseManagement.Core.Enities.Course)">
+            <summary>
+            Sửa khóa học
+            </summary>
+            <param name="course"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CourseManagement.Api.Controllers.CourseController.GetSearchAndPaging(System.Nullable{System.Int32},System.Nullable{System.Int32},System.String)">
+            <summary>
+            Tìm kiếm, phân trang khóa học
+            </summary>
+            <param name="pageSize"></param>
+            <param name="pageNumber"></param>
+            <param name="courseFilter"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CourseManagement.Api.Controllers.CourseController.Delete(System.String)">
+            <summary>
+            Xóa bản ghi
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="T:CourseManagement.Api.Controllers.DepartmentController">
+            <summary>
+            Controller cho các thao tác với Department
+            Author: TUANTA
+            Create Date: 02/13/2023
+            </summary>
+        </member>
+        <member name="M:CourseManagement.Api.Controllers.DepartmentController.GetAll">
+            <summary>
+            Lấy thông tin các phòng ban
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:CourseManagement.Api.Controllers.EmployeeController">
+            <summary>
+            Controller phục vụ các thao tác liên quan đến Employee
+            Author: TUANTA
+            CreateDate: 02/13/2023
+            </summary>
+        </member>
+        <member name="M:CourseManagement.Api.Controllers.EmployeeController.GetAll">
+            <summary>
+            Lấy thông tin toàn bộ Employee
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:CourseManagement.Api.Controllers.EmployeeController.GetById(System.Guid)">
+            <summary>
+            Lấy thông tin employee theo EmployeeID
+            </summary>
+            <param name="employeeId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CourseManagement.Api.Controllers.EmployeeController.Post(CourseManagement.Core.Enities.Employee)">
+            <summary>
+            Thêm thông tin nhân viên
+            </summary>
+            <param name="employee"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CourseManagement.Api.Controllers.EmployeeController.Put(CourseManagement.Core.Enities.Employee)">
+            <summary>
+            Sửa thông tin nhân viên
+            </summary>
+            <param name="employee"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CourseManagement.Api.Controllers.EmployeeController.GetSearchAndPaging(System.Nullable{System.Int32},System.Nullable{System.Int32},System.String)">
+            <summary>
+            Tìm kiếm, phân trang nhân viên
+            </summary>
+            <param name="pageSize"></param>
+            <param name="pageNumber"></param>
+            <param name="employeeFilter"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CourseManagement.Api.Controllers.EmployeeController.Delete(System.String)">
+            <summary>
+            Xóa bản ghi
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="T:CourseManagement.Api.Controllers.PositionController">
+            <summary>
+            Controller phục vụ các thao tác liên quan tới Position
+            Author: TUANTA
+            CreateDate: 02/13/2023
+            </summary>
+        </member>
+        <member name="M:CourseManagement.Api.Controllers.PositionController.GetAll">
+            <summary>
+            Lấy thông tin toàn bộ Position
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:CourseManagement.Api.Controllers.RegistrationController">
+            <summary>
+            Controller phục vụ các thao tác liên quan tới Registration
+            Author: TUANTA
+            CreateDate: 02/17/2023
+            </summary>
+        </member>
+        <member name="M:CourseManagement.Api.Controllers.RegistrationController.#ctor(CourseManagement.Core.Interfaces.Infrastracture.IRegistrationRepository,CourseManagement.Core.Interfaces.Services.IRegistrationService)">
+            <summary>
+            Hàm khởi tạo
+            </summary>
+            <param name="registrationRepository"></param>
+            <param name="registrationService"></param>
+        </member>
+        <member name="M:CourseManagement.Api.Controllers.RegistrationController.GetRegistrationByCourseID(System.Guid)">
+            <summary>
+            Lấy danh sách đơn đăng ký có trạng thái chưa phê duyệt theo mã khóa học
+            </summary>
+            <param name="courseID"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CourseManagement.Api.Controllers.RegistrationController.Insert(CourseManagement.Core.Enities.Registration)">
+            <summary>
+            Thêm thông tin đăng ký khóa học
+            </summary>
+            <param name="registration"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CourseManagement.Api.Controllers.RegistrationController.Update(CourseManagement.Core.Enities.Registration)">
+            <summary>
+            Thay đổi trạng thái của khóa học/Phê duyệt đơn đăng ký
+            </summary>
+            <param name="registration"></param>
+            <returns></returns>
+        </member>
+        <member name="T:CourseManagement.Api.Controllers.ResultController">
+            <summary>
+            Controller liên quan đến các thao tác liên quan tới kết quả
+            Author: TUANTA
+            CreateDate: 02/17/2023
+            </summary>
+        </member>
+        <member name="M:CourseManagement.Api.Controllers.ResultController.Update(CourseManagement.Core.Enities.Result)">
+            <summary>
+            Nhập điểm, sửa điểm
+            </summary>
+            <param name="result"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CourseManagement.Api.Controllers.ResultController.GetResultByID(System.Guid,System.Guid)">
+            <summary>
+            Lấy thông tin kết quả của một nhân viên trong một khóa học
+            </summary>
+            <param name="employeeID"></param>
+            <param name="courseID"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CourseManagement.Api.Controllers.ResultController.GetResultByEmployeeID(System.Guid)">
+            <summary>
+            Lấy ra kết quả của nhân viên trong tất cả khóa học
+            </summary>
+            <param name="employeeID"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CourseManagement.Api.Controllers.ResultController.GetResultByCourseID(System.Guid)">
+            <summary>
+            lấy ra nhiều kết quả của tất cả nhân viên trong một khóa học
+            </summary>
+            <param name="courseID"></param>
+            <returns></returns>
+        </member>
+        <member name="T:CourseManagement.Api.Controllers.TrainerController">
+            <summary>
+            Controller liên quan đến các thao tác liên quan giảng viên
+            Author: TUANTA
+            CreateDate: 02/14/2023
+            </summary>
+        </member>
+        <member name="M:CourseManagement.Api.Controllers.TrainerController.#ctor(CourseManagement.Core.Interfaces.Infrastracture.ITrainerRepository,CourseManagement.Core.Interfaces.Services.ITrainerService)">
+            <summary>
+            Hàm khởi tạo
+            </summary>
+            <param name="trainerRepository"></param>
+            <param name="trainerService"></param>
+        </member>
+        <member name="M:CourseManagement.Api.Controllers.TrainerController.GetAll">
+            <summary>
+            Lấy thông tin toàn bộ giảng viên
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:CourseManagement.Api.Controllers.TrainerController.GetById(System.Guid)">
+            <summary>
+            Lấy thông tin giảng viên theo mã giảng viên
+            </summary>
+            <param name="trainerId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CourseManagement.Api.Controllers.TrainerController.Post(CourseManagement.Core.Enities.Trainer)">
+            <summary>
+            Thêm thông tin giảng viên
+            </summary>
+            <param name="trainer"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CourseManagement.Api.Controllers.TrainerController.Put(CourseManagement.Core.Enities.Trainer)">
+            <summary>
+            Sửa thông tin giảng viên
+            </summary>
+            <param name="trainer"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CourseManagement.Api.Controllers.TrainerController.GetSearchAndPaging(System.Nullable{System.Int32},System.Nullable{System.Int32},System.String)">
+            <summary>
+            Tìm kiếm, phân trang giảng viên
+            </summary>
+            <param name="pageSize"></param>
+            <param name="pageNumber"></param>
+            <param name="trainerFilter"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CourseManagement.Api.Controllers.TrainerController.Delete(System.String)">
+            <summary>
+            Xóa bản ghi
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="T:CourseManagement.Api.Controllers.TrainingTypeController">
+            <summary>
+            Controller liên quan đến các thao tác liên quan loại khóa học
+            Author: TUANTA
+            CreateDate: 02/14/2023
+            </summary>
+        </member>
+        <member name="M:CourseManagement.Api.Controllers.TrainingTypeController.GetAll">
+            <summary>
+            Lấy thông tin toàn bộ kiểu khóa học
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

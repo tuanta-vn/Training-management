@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "CyVD+5cnKkbTu6YPsSg4UHSn4CjhZ44mKc/mk7BToUw=",
+  "Source": "CourseManagement.Api",
+  "BasePath": "_content/CourseManagement.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

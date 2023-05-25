@@ -1,0 +1,225 @@
+D:\USOL_V\FinalProject\API\CourseManagement\CourseManagement.Infrastructure\bin\Debug\net6.0\CourseManagement.Infrastructure.deps.json
+D:\USOL_V\FinalProject\API\CourseManagement\CourseManagement.Infrastructure\bin\Debug\net6.0\CourseManagement.Infrastructure.dll
+D:\USOL_V\FinalProject\API\CourseManagement\CourseManagement.Infrastructure\bin\Debug\net6.0\CourseManagement.Infrastructure.pdb
+D:\USOL_V\FinalProject\API\CourseManagement\CourseManagement.Infrastructure\bin\Debug\net6.0\CourseManagement.Core.dll
+D:\USOL_V\FinalProject\API\CourseManagement\CourseManagement.Infrastructure\bin\Debug\net6.0\CourseManagement.Core.pdb
+D:\USOL_V\FinalProject\API\CourseManagement\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.csproj.AssemblyReference.cache
+D:\USOL_V\FinalProject\API\CourseManagement\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\USOL_V\FinalProject\API\CourseManagement\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.AssemblyInfoInputs.cache
+D:\USOL_V\FinalProject\API\CourseManagement\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.AssemblyInfo.cs
+D:\USOL_V\FinalProject\API\CourseManagement\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.csproj.CoreCompileInputs.cache
+D:\USOL_V\FinalProject\API\CourseManagement\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.csproj.CopyComplete
+D:\USOL_V\FinalProject\API\CourseManagement\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.dll
+D:\USOL_V\FinalProject\API\CourseManagement\CourseManagement.Infrastructure\obj\Debug\net6.0\refint\CourseManagement.Infrastructure.dll
+D:\USOL_V\FinalProject\API\CourseManagement\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.pdb
+D:\USOL_V\FinalProject\API\CourseManagement\CourseManagement.Infrastructure\obj\Debug\net6.0\ref\CourseManagement.Infrastructure.dll
+C:\Users\THUONG\OneDrive\Máy tính\USOL\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Infrastructure\bin\Debug\net6.0\CourseManagement.Infrastructure.deps.json
+C:\Users\THUONG\OneDrive\Máy tính\USOL\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Infrastructure\bin\Debug\net6.0\CourseManagement.Infrastructure.dll
+C:\Users\THUONG\OneDrive\Máy tính\USOL\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Infrastructure\bin\Debug\net6.0\CourseManagement.Infrastructure.pdb
+C:\Users\THUONG\OneDrive\Máy tính\USOL\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Infrastructure\bin\Debug\net6.0\CourseManagement.Core.dll
+C:\Users\THUONG\OneDrive\Máy tính\USOL\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Infrastructure\bin\Debug\net6.0\CourseManagement.Core.pdb
+C:\Users\THUONG\OneDrive\Máy tính\USOL\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\THUONG\OneDrive\Máy tính\USOL\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THUONG\OneDrive\Máy tính\USOL\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\THUONG\OneDrive\Máy tính\USOL\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.AssemblyInfo.cs
+C:\Users\THUONG\OneDrive\Máy tính\USOL\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\THUONG\OneDrive\Máy tính\USOL\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.csproj.CopyComplete
+C:\Users\THUONG\OneDrive\Máy tính\USOL\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.dll
+C:\Users\THUONG\OneDrive\Máy tính\USOL\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Infrastructure\obj\Debug\net6.0\refint\CourseManagement.Infrastructure.dll
+C:\Users\THUONG\OneDrive\Máy tính\USOL\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.pdb
+C:\Users\THUONG\OneDrive\Máy tính\USOL\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Infrastructure\obj\Debug\net6.0\ref\CourseManagement.Infrastructure.dll
+D:\USOL_V\FinalProject\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Infrastructure\bin\Debug\net6.0\CourseManagement.Infrastructure.deps.json
+D:\USOL_V\FinalProject\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Infrastructure\bin\Debug\net6.0\CourseManagement.Infrastructure.dll
+D:\USOL_V\FinalProject\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Infrastructure\bin\Debug\net6.0\CourseManagement.Infrastructure.pdb
+D:\USOL_V\FinalProject\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Infrastructure\bin\Debug\net6.0\CourseManagement.Core.dll
+D:\USOL_V\FinalProject\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Infrastructure\bin\Debug\net6.0\CourseManagement.Core.pdb
+D:\USOL_V\FinalProject\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.csproj.AssemblyReference.cache
+D:\USOL_V\FinalProject\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\USOL_V\FinalProject\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.AssemblyInfoInputs.cache
+D:\USOL_V\FinalProject\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.AssemblyInfo.cs
+D:\USOL_V\FinalProject\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.csproj.CoreCompileInputs.cache
+D:\USOL_V\FinalProject\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.csproj.CopyComplete
+D:\USOL_V\FinalProject\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.dll
+D:\USOL_V\FinalProject\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Infrastructure\obj\Debug\net6.0\refint\CourseManagement.Infrastructure.dll
+D:\USOL_V\FinalProject\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.pdb
+D:\USOL_V\FinalProject\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Infrastructure\obj\Debug\net6.0\ref\CourseManagement.Infrastructure.dll
+C:\Users\THUONG\OneDrive\Máy tính\USOL_V\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Infrastructure\bin\Debug\net6.0\CourseManagement.Infrastructure.deps.json
+C:\Users\THUONG\OneDrive\Máy tính\USOL_V\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Infrastructure\bin\Debug\net6.0\CourseManagement.Infrastructure.dll
+C:\Users\THUONG\OneDrive\Máy tính\USOL_V\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Infrastructure\bin\Debug\net6.0\CourseManagement.Infrastructure.pdb
+C:\Users\THUONG\OneDrive\Máy tính\USOL_V\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Infrastructure\bin\Debug\net6.0\CourseManagement.Core.dll
+C:\Users\THUONG\OneDrive\Máy tính\USOL_V\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Infrastructure\bin\Debug\net6.0\CourseManagement.Core.pdb
+C:\Users\THUONG\OneDrive\Máy tính\USOL_V\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\THUONG\OneDrive\Máy tính\USOL_V\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THUONG\OneDrive\Máy tính\USOL_V\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\THUONG\OneDrive\Máy tính\USOL_V\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.AssemblyInfo.cs
+C:\Users\THUONG\OneDrive\Máy tính\USOL_V\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\THUONG\OneDrive\Máy tính\USOL_V\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.csproj.CopyComplete
+C:\Users\THUONG\OneDrive\Máy tính\USOL_V\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.dll
+C:\Users\THUONG\OneDrive\Máy tính\USOL_V\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Infrastructure\obj\Debug\net6.0\refint\CourseManagement.Infrastructure.dll
+C:\Users\THUONG\OneDrive\Máy tính\USOL_V\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.pdb
+C:\Users\THUONG\OneDrive\Máy tính\USOL_V\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Infrastructure\obj\Debug\net6.0\ref\CourseManagement.Infrastructure.dll
+D:\USOL_V\TOM\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Infrastructure\bin\Debug\net6.0\CourseManagement.Infrastructure.deps.json
+D:\USOL_V\TOM\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Infrastructure\bin\Debug\net6.0\CourseManagement.Infrastructure.dll
+D:\USOL_V\TOM\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Infrastructure\bin\Debug\net6.0\CourseManagement.Infrastructure.pdb
+D:\USOL_V\TOM\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Infrastructure\bin\Debug\net6.0\CourseManagement.Core.dll
+D:\USOL_V\TOM\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Infrastructure\bin\Debug\net6.0\CourseManagement.Core.pdb
+D:\USOL_V\TOM\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.csproj.AssemblyReference.cache
+D:\USOL_V\TOM\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\USOL_V\TOM\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.AssemblyInfoInputs.cache
+D:\USOL_V\TOM\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.AssemblyInfo.cs
+D:\USOL_V\TOM\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.csproj.CoreCompileInputs.cache
+D:\USOL_V\TOM\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.csproj.CopyComplete
+D:\USOL_V\TOM\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.dll
+D:\USOL_V\TOM\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Infrastructure\obj\Debug\net6.0\refint\CourseManagement.Infrastructure.dll
+D:\USOL_V\TOM\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.pdb
+D:\USOL_V\TOM\FINALPROJECT_USOL_V\FINALPROJECT_USOL_V_thuongtd\API\CourseManagement\CourseManagement.Infrastructure\obj\Debug\net6.0\ref\CourseManagement.Infrastructure.dll
+D:\USOL_V\GROUP3\API\CourseManagement\CourseManagement.Infrastructure\bin\Debug\net6.0\CourseManagement.Infrastructure.deps.json
+D:\USOL_V\GROUP3\API\CourseManagement\CourseManagement.Infrastructure\bin\Debug\net6.0\CourseManagement.Infrastructure.dll
+D:\USOL_V\GROUP3\API\CourseManagement\CourseManagement.Infrastructure\bin\Debug\net6.0\CourseManagement.Infrastructure.pdb
+D:\USOL_V\GROUP3\API\CourseManagement\CourseManagement.Infrastructure\bin\Debug\net6.0\CourseManagement.Core.dll
+D:\USOL_V\GROUP3\API\CourseManagement\CourseManagement.Infrastructure\bin\Debug\net6.0\CourseManagement.Core.pdb
+D:\USOL_V\GROUP3\API\CourseManagement\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.csproj.AssemblyReference.cache
+D:\USOL_V\GROUP3\API\CourseManagement\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\USOL_V\GROUP3\API\CourseManagement\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.AssemblyInfoInputs.cache
+D:\USOL_V\GROUP3\API\CourseManagement\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.AssemblyInfo.cs
+D:\USOL_V\GROUP3\API\CourseManagement\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.csproj.CoreCompileInputs.cache
+D:\USOL_V\GROUP3\API\CourseManagement\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.csproj.CopyComplete
+D:\USOL_V\GROUP3\API\CourseManagement\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.dll
+D:\USOL_V\GROUP3\API\CourseManagement\CourseManagement.Infrastructure\obj\Debug\net6.0\refint\CourseManagement.Infrastructure.dll
+D:\USOL_V\GROUP3\API\CourseManagement\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.pdb
+D:\USOL_V\GROUP3\API\CourseManagement\CourseManagement.Infrastructure\obj\Debug\net6.0\ref\CourseManagement.Infrastructure.dll
+C:\Users\THUONG\OneDrive\Máy tính\Final\FINALPROJECT_USOLV\API\CourseManagement\CourseManagement.Infrastructure\bin\Debug\net6.0\CourseManagement.Infrastructure.deps.json
+C:\Users\THUONG\OneDrive\Máy tính\Final\FINALPROJECT_USOLV\API\CourseManagement\CourseManagement.Infrastructure\bin\Debug\net6.0\CourseManagement.Infrastructure.dll
+C:\Users\THUONG\OneDrive\Máy tính\Final\FINALPROJECT_USOLV\API\CourseManagement\CourseManagement.Infrastructure\bin\Debug\net6.0\CourseManagement.Infrastructure.pdb
+C:\Users\THUONG\OneDrive\Máy tính\Final\FINALPROJECT_USOLV\API\CourseManagement\CourseManagement.Infrastructure\bin\Debug\net6.0\CourseManagement.Core.dll
+C:\Users\THUONG\OneDrive\Máy tính\Final\FINALPROJECT_USOLV\API\CourseManagement\CourseManagement.Infrastructure\bin\Debug\net6.0\CourseManagement.Core.pdb
+C:\Users\THUONG\OneDrive\Máy tính\Final\FINALPROJECT_USOLV\API\CourseManagement\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\THUONG\OneDrive\Máy tính\Final\FINALPROJECT_USOLV\API\CourseManagement\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THUONG\OneDrive\Máy tính\Final\FINALPROJECT_USOLV\API\CourseManagement\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\THUONG\OneDrive\Máy tính\Final\FINALPROJECT_USOLV\API\CourseManagement\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.AssemblyInfo.cs
+C:\Users\THUONG\OneDrive\Máy tính\Final\FINALPROJECT_USOLV\API\CourseManagement\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\THUONG\OneDrive\Máy tính\Final\FINALPROJECT_USOLV\API\CourseManagement\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.csproj.CopyComplete
+C:\Users\THUONG\OneDrive\Máy tính\Final\FINALPROJECT_USOLV\API\CourseManagement\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.dll
+C:\Users\THUONG\OneDrive\Máy tính\Final\FINALPROJECT_USOLV\API\CourseManagement\CourseManagement.Infrastructure\obj\Debug\net6.0\refint\CourseManagement.Infrastructure.dll
+C:\Users\THUONG\OneDrive\Máy tính\Final\FINALPROJECT_USOLV\API\CourseManagement\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.pdb
+C:\Users\THUONG\OneDrive\Máy tính\Final\FINALPROJECT_USOLV\API\CourseManagement\CourseManagement.Infrastructure\obj\Debug\net6.0\ref\CourseManagement.Infrastructure.dll
+D:\TranTuan\FINALPROJECT_USOLV-tuanta\FINALPROJECT_USOLV-tuanta\API\CourseManagement\CourseManagement.Infrastructure\bin\Debug\net6.0\CourseManagement.Infrastructure.deps.json
+D:\TranTuan\FINALPROJECT_USOLV-tuanta\FINALPROJECT_USOLV-tuanta\API\CourseManagement\CourseManagement.Infrastructure\bin\Debug\net6.0\CourseManagement.Infrastructure.dll
+D:\TranTuan\FINALPROJECT_USOLV-tuanta\FINALPROJECT_USOLV-tuanta\API\CourseManagement\CourseManagement.Infrastructure\bin\Debug\net6.0\CourseManagement.Infrastructure.pdb
+D:\TranTuan\FINALPROJECT_USOLV-tuanta\FINALPROJECT_USOLV-tuanta\API\CourseManagement\CourseManagement.Infrastructure\bin\Debug\net6.0\CourseManagement.Core.dll
+D:\TranTuan\FINALPROJECT_USOLV-tuanta\FINALPROJECT_USOLV-tuanta\API\CourseManagement\CourseManagement.Infrastructure\bin\Debug\net6.0\CourseManagement.Core.pdb
+D:\TranTuan\FINALPROJECT_USOLV-tuanta\FINALPROJECT_USOLV-tuanta\API\CourseManagement\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.csproj.AssemblyReference.cache
+D:\TranTuan\FINALPROJECT_USOLV-tuanta\FINALPROJECT_USOLV-tuanta\API\CourseManagement\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\TranTuan\FINALPROJECT_USOLV-tuanta\FINALPROJECT_USOLV-tuanta\API\CourseManagement\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.AssemblyInfoInputs.cache
+D:\TranTuan\FINALPROJECT_USOLV-tuanta\FINALPROJECT_USOLV-tuanta\API\CourseManagement\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.AssemblyInfo.cs
+D:\TranTuan\FINALPROJECT_USOLV-tuanta\FINALPROJECT_USOLV-tuanta\API\CourseManagement\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.csproj.CoreCompileInputs.cache
+D:\TranTuan\FINALPROJECT_USOLV-tuanta\FINALPROJECT_USOLV-tuanta\API\CourseManagement\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.csproj.CopyComplete
+D:\TranTuan\FINALPROJECT_USOLV-tuanta\FINALPROJECT_USOLV-tuanta\API\CourseManagement\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.dll
+D:\TranTuan\FINALPROJECT_USOLV-tuanta\FINALPROJECT_USOLV-tuanta\API\CourseManagement\CourseManagement.Infrastructure\obj\Debug\net6.0\refint\CourseManagement.Infrastructure.dll
+D:\TranTuan\FINALPROJECT_USOLV-tuanta\FINALPROJECT_USOLV-tuanta\API\CourseManagement\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.pdb
+D:\TranTuan\FINALPROJECT_USOLV-tuanta\FINALPROJECT_USOLV-tuanta\API\CourseManagement\CourseManagement.Infrastructure\obj\Debug\net6.0\ref\CourseManagement.Infrastructure.dll
+D:\TEAM3\Programming\BE\CourseManagement.Infrastructure\bin\Debug\net6.0\CourseManagement.Infrastructure.deps.json
+D:\TEAM3\Programming\BE\CourseManagement.Infrastructure\bin\Debug\net6.0\CourseManagement.Infrastructure.dll
+D:\TEAM3\Programming\BE\CourseManagement.Infrastructure\bin\Debug\net6.0\CourseManagement.Infrastructure.pdb
+D:\TEAM3\Programming\BE\CourseManagement.Infrastructure\bin\Debug\net6.0\CourseManagement.Core.dll
+D:\TEAM3\Programming\BE\CourseManagement.Infrastructure\bin\Debug\net6.0\CourseManagement.Core.pdb
+D:\TEAM3\Programming\BE\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.csproj.AssemblyReference.cache
+D:\TEAM3\Programming\BE\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\TEAM3\Programming\BE\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.AssemblyInfoInputs.cache
+D:\TEAM3\Programming\BE\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.AssemblyInfo.cs
+D:\TEAM3\Programming\BE\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.csproj.CoreCompileInputs.cache
+D:\TEAM3\Programming\BE\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.csproj.CopyComplete
+D:\TEAM3\Programming\BE\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.dll
+D:\TEAM3\Programming\BE\CourseManagement.Infrastructure\obj\Debug\net6.0\refint\CourseManagement.Infrastructure.dll
+D:\TEAM3\Programming\BE\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.pdb
+D:\TEAM3\Programming\BE\CourseManagement.Infrastructure\obj\Debug\net6.0\ref\CourseManagement.Infrastructure.dll
+E:\Usol\Project_2602\Nhom3\BE\CourseManagement.Infrastructure\bin\Debug\net6.0\CourseManagement.Infrastructure.deps.json
+E:\Usol\Project_2602\Nhom3\BE\CourseManagement.Infrastructure\bin\Debug\net6.0\CourseManagement.Infrastructure.dll
+E:\Usol\Project_2602\Nhom3\BE\CourseManagement.Infrastructure\bin\Debug\net6.0\CourseManagement.Infrastructure.pdb
+E:\Usol\Project_2602\Nhom3\BE\CourseManagement.Infrastructure\bin\Debug\net6.0\CourseManagement.Core.dll
+E:\Usol\Project_2602\Nhom3\BE\CourseManagement.Infrastructure\bin\Debug\net6.0\CourseManagement.Core.pdb
+E:\Usol\Project_2602\Nhom3\BE\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.csproj.AssemblyReference.cache
+E:\Usol\Project_2602\Nhom3\BE\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Usol\Project_2602\Nhom3\BE\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.AssemblyInfoInputs.cache
+E:\Usol\Project_2602\Nhom3\BE\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.AssemblyInfo.cs
+E:\Usol\Project_2602\Nhom3\BE\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Usol\Project_2602\Nhom3\BE\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.csproj.CopyComplete
+E:\Usol\Project_2602\Nhom3\BE\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.dll
+E:\Usol\Project_2602\Nhom3\BE\CourseManagement.Infrastructure\obj\Debug\net6.0\refint\CourseManagement.Infrastructure.dll
+E:\Usol\Project_2602\Nhom3\BE\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.pdb
+E:\Usol\Project_2602\Nhom3\BE\CourseManagement.Infrastructure\obj\Debug\net6.0\ref\CourseManagement.Infrastructure.dll
+D:\Thực tập doanh nghiệp\Newest Project\BE\BE\CourseManagement.Infrastructure\bin\Debug\net6.0\CourseManagement.Infrastructure.deps.json
+D:\Thực tập doanh nghiệp\Newest Project\BE\BE\CourseManagement.Infrastructure\bin\Debug\net6.0\CourseManagement.Infrastructure.dll
+D:\Thực tập doanh nghiệp\Newest Project\BE\BE\CourseManagement.Infrastructure\bin\Debug\net6.0\CourseManagement.Infrastructure.pdb
+D:\Thực tập doanh nghiệp\Newest Project\BE\BE\CourseManagement.Infrastructure\bin\Debug\net6.0\CourseManagement.Core.dll
+D:\Thực tập doanh nghiệp\Newest Project\BE\BE\CourseManagement.Infrastructure\bin\Debug\net6.0\CourseManagement.Core.pdb
+D:\Thực tập doanh nghiệp\Newest Project\BE\BE\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.csproj.AssemblyReference.cache
+D:\Thực tập doanh nghiệp\Newest Project\BE\BE\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Thực tập doanh nghiệp\Newest Project\BE\BE\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.AssemblyInfoInputs.cache
+D:\Thực tập doanh nghiệp\Newest Project\BE\BE\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.AssemblyInfo.cs
+D:\Thực tập doanh nghiệp\Newest Project\BE\BE\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Thực tập doanh nghiệp\Newest Project\BE\BE\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.csproj.CopyComplete
+D:\Thực tập doanh nghiệp\Newest Project\BE\BE\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.dll
+D:\Thực tập doanh nghiệp\Newest Project\BE\BE\CourseManagement.Infrastructure\obj\Debug\net6.0\refint\CourseManagement.Infrastructure.dll
+D:\Thực tập doanh nghiệp\Newest Project\BE\BE\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.pdb
+D:\Thực tập doanh nghiệp\Newest Project\BE\BE\CourseManagement.Infrastructure\obj\Debug\net6.0\ref\CourseManagement.Infrastructure.dll
+D:\Đồ án tốt nghiệp\Newest Project\BE\BE\CourseManagement.Infrastructure\bin\Debug\net6.0\CourseManagement.Infrastructure.deps.json
+D:\Đồ án tốt nghiệp\Newest Project\BE\BE\CourseManagement.Infrastructure\bin\Debug\net6.0\CourseManagement.Infrastructure.dll
+D:\Đồ án tốt nghiệp\Newest Project\BE\BE\CourseManagement.Infrastructure\bin\Debug\net6.0\CourseManagement.Infrastructure.pdb
+D:\Đồ án tốt nghiệp\Newest Project\BE\BE\CourseManagement.Infrastructure\bin\Debug\net6.0\CourseManagement.Core.dll
+D:\Đồ án tốt nghiệp\Newest Project\BE\BE\CourseManagement.Infrastructure\bin\Debug\net6.0\CourseManagement.Core.pdb
+D:\Đồ án tốt nghiệp\Newest Project\BE\BE\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.csproj.AssemblyReference.cache
+D:\Đồ án tốt nghiệp\Newest Project\BE\BE\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Đồ án tốt nghiệp\Newest Project\BE\BE\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.AssemblyInfoInputs.cache
+D:\Đồ án tốt nghiệp\Newest Project\BE\BE\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.AssemblyInfo.cs
+D:\Đồ án tốt nghiệp\Newest Project\BE\BE\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Đồ án tốt nghiệp\Newest Project\BE\BE\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.csproj.CopyComplete
+D:\Đồ án tốt nghiệp\Newest Project\BE\BE\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.dll
+D:\Đồ án tốt nghiệp\Newest Project\BE\BE\CourseManagement.Infrastructure\obj\Debug\net6.0\refint\CourseManagement.Infrastructure.dll
+D:\Đồ án tốt nghiệp\Newest Project\BE\BE\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.pdb
+D:\Đồ án tốt nghiệp\Newest Project\BE\BE\CourseManagement.Infrastructure\obj\Debug\net6.0\ref\CourseManagement.Infrastructure.dll
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\BE\CourseManagement.Infrastructure\bin\Debug\net6.0\CourseManagement.Infrastructure.deps.json
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\BE\CourseManagement.Infrastructure\bin\Debug\net6.0\CourseManagement.Infrastructure.dll
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\BE\CourseManagement.Infrastructure\bin\Debug\net6.0\CourseManagement.Infrastructure.pdb
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\BE\CourseManagement.Infrastructure\bin\Debug\net6.0\CourseManagement.Core.dll
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\BE\CourseManagement.Infrastructure\bin\Debug\net6.0\CourseManagement.Core.pdb
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\BE\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.csproj.AssemblyReference.cache
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\BE\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\BE\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.AssemblyInfoInputs.cache
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\BE\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.AssemblyInfo.cs
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\BE\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\BE\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.csproj.CopyComplete
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\BE\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.dll
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\BE\CourseManagement.Infrastructure\obj\Debug\net6.0\refint\CourseManagement.Infrastructure.dll
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\BE\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.pdb
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\BE\CourseManagement.Infrastructure\obj\Debug\net6.0\ref\CourseManagement.Infrastructure.dll
+C:\Users\MY PC\Desktop\DATN\COURSEMANAGEMENT\BE\CourseManagement.Infrastructure\bin\Debug\net6.0\CourseManagement.Infrastructure.deps.json
+C:\Users\MY PC\Desktop\DATN\COURSEMANAGEMENT\BE\CourseManagement.Infrastructure\bin\Debug\net6.0\CourseManagement.Infrastructure.dll
+C:\Users\MY PC\Desktop\DATN\COURSEMANAGEMENT\BE\CourseManagement.Infrastructure\bin\Debug\net6.0\CourseManagement.Infrastructure.pdb
+C:\Users\MY PC\Desktop\DATN\COURSEMANAGEMENT\BE\CourseManagement.Infrastructure\bin\Debug\net6.0\CourseManagement.Core.dll
+C:\Users\MY PC\Desktop\DATN\COURSEMANAGEMENT\BE\CourseManagement.Infrastructure\bin\Debug\net6.0\CourseManagement.Core.pdb
+C:\Users\MY PC\Desktop\DATN\COURSEMANAGEMENT\BE\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\MY PC\Desktop\DATN\COURSEMANAGEMENT\BE\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MY PC\Desktop\DATN\COURSEMANAGEMENT\BE\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\MY PC\Desktop\DATN\COURSEMANAGEMENT\BE\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.AssemblyInfo.cs
+C:\Users\MY PC\Desktop\DATN\COURSEMANAGEMENT\BE\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\MY PC\Desktop\DATN\COURSEMANAGEMENT\BE\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.csproj.CopyComplete
+C:\Users\MY PC\Desktop\DATN\COURSEMANAGEMENT\BE\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.dll
+C:\Users\MY PC\Desktop\DATN\COURSEMANAGEMENT\BE\CourseManagement.Infrastructure\obj\Debug\net6.0\refint\CourseManagement.Infrastructure.dll
+C:\Users\MY PC\Desktop\DATN\COURSEMANAGEMENT\BE\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.pdb
+C:\Users\MY PC\Desktop\DATN\COURSEMANAGEMENT\BE\CourseManagement.Infrastructure\obj\Debug\net6.0\ref\CourseManagement.Infrastructure.dll
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\CourseManagement.Infrastructure\bin\Debug\net6.0\CourseManagement.Infrastructure.deps.json
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\CourseManagement.Infrastructure\bin\Debug\net6.0\CourseManagement.Infrastructure.dll
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\CourseManagement.Infrastructure\bin\Debug\net6.0\CourseManagement.Infrastructure.pdb
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\CourseManagement.Infrastructure\bin\Debug\net6.0\CourseManagement.Core.dll
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\CourseManagement.Infrastructure\bin\Debug\net6.0\CourseManagement.Core.pdb
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.csproj.AssemblyReference.cache
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.AssemblyInfoInputs.cache
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.AssemblyInfo.cs
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.csproj.CopyComplete
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.dll
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\CourseManagement.Infrastructure\obj\Debug\net6.0\refint\CourseManagement.Infrastructure.dll
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\CourseManagement.Infrastructure\obj\Debug\net6.0\CourseManagement.Infrastructure.pdb
+D:\Đồ án tốt nghiệp\COURSEMANAGEMENT\BE\CourseManagement.Infrastructure\obj\Debug\net6.0\ref\CourseManagement.Infrastructure.dll

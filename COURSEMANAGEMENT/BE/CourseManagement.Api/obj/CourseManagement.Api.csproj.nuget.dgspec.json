@@ -1,0 +1,241 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Đồ án tốt nghiệp\\COURSEMANAGEMENT\\BE\\CourseManagement.Api\\CourseManagement.Api.csproj": {}
+  },
+  "projects": {
+    "D:\\Đồ án tốt nghiệp\\COURSEMANAGEMENT\\BE\\CourseManagement.Api\\CourseManagement.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Đồ án tốt nghiệp\\COURSEMANAGEMENT\\BE\\CourseManagement.Api\\CourseManagement.Api.csproj",
+        "projectName": "CourseManagement.Api",
+        "projectPath": "D:\\Đồ án tốt nghiệp\\COURSEMANAGEMENT\\BE\\CourseManagement.Api\\CourseManagement.Api.csproj",
+        "packagesPath": "C:\\Users\\MY PC\\.nuget\\packages\\",
+        "outputPath": "D:\\Đồ án tốt nghiệp\\COURSEMANAGEMENT\\BE\\CourseManagement.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\MY PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Đồ án tốt nghiệp\\COURSEMANAGEMENT\\BE\\CourseManagement.Core\\CourseManagement.Core.csproj": {
+                "projectPath": "D:\\Đồ án tốt nghiệp\\COURSEMANAGEMENT\\BE\\CourseManagement.Core\\CourseManagement.Core.csproj"
+              },
+              "D:\\Đồ án tốt nghiệp\\COURSEMANAGEMENT\\BE\\CourseManagement.Infrastructure\\CourseManagement.Infrastructure.csproj": {
+                "projectPath": "D:\\Đồ án tốt nghiệp\\COURSEMANAGEMENT\\BE\\CourseManagement.Infrastructure\\CourseManagement.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.14, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.27.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "Swashbuckle.AspNetCore.Filters": {
+              "target": "Package",
+              "version": "[7.0.6, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.27.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Đồ án tốt nghiệp\\COURSEMANAGEMENT\\BE\\CourseManagement.Core\\CourseManagement.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Đồ án tốt nghiệp\\COURSEMANAGEMENT\\BE\\CourseManagement.Core\\CourseManagement.Core.csproj",
+        "projectName": "CourseManagement.Core",
+        "projectPath": "D:\\Đồ án tốt nghiệp\\COURSEMANAGEMENT\\BE\\CourseManagement.Core\\CourseManagement.Core.csproj",
+        "packagesPath": "C:\\Users\\MY PC\\.nuget\\packages\\",
+        "outputPath": "D:\\Đồ án tốt nghiệp\\COURSEMANAGEMENT\\BE\\CourseManagement.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\MY PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[6.0.0-preview.4.21253.5, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.27.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.27.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Đồ án tốt nghiệp\\COURSEMANAGEMENT\\BE\\CourseManagement.Infrastructure\\CourseManagement.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Đồ án tốt nghiệp\\COURSEMANAGEMENT\\BE\\CourseManagement.Infrastructure\\CourseManagement.Infrastructure.csproj",
+        "projectName": "CourseManagement.Infrastructure",
+        "projectPath": "D:\\Đồ án tốt nghiệp\\COURSEMANAGEMENT\\BE\\CourseManagement.Infrastructure\\CourseManagement.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\MY PC\\.nuget\\packages\\",
+        "outputPath": "D:\\Đồ án tốt nghiệp\\COURSEMANAGEMENT\\BE\\CourseManagement.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\MY PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Đồ án tốt nghiệp\\COURSEMANAGEMENT\\BE\\CourseManagement.Core\\CourseManagement.Core.csproj": {
+                "projectPath": "D:\\Đồ án tốt nghiệp\\COURSEMANAGEMENT\\BE\\CourseManagement.Core\\CourseManagement.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
